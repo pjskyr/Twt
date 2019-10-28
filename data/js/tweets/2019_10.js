@@ -1,6 +1,2345 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 10:00:35 +0000 2019",
+		"id": 1188447472072310800,
+		"id_str": "1188757444953923585",
+		"full_text": "#강다니엘 #KANGDANIEL\n#MAMAVOTE \n\nHIGHCUT VOL.249\nHQ scan https://t.co/vLunFqp9xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188447455592894500,
+					"id_str": "1188447455592894464",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH42qgjU0AAY5of.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH42qgjU0AAY5of.jpg",
+					"url": "https://t.co/vLunFqp9xd",
+					"display_url": "pic.twitter.com/vLunFqp9xd",
+					"expanded_url": "https://twitter.com/_siPink/status/1188447472072310786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188447455592894500,
+					"id_str": "1188447455592894464",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH42qgjU0AAY5of.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH42qgjU0AAY5of.jpg",
+					"url": "https://t.co/vLunFqp9xd",
+					"display_url": "pic.twitter.com/vLunFqp9xd",
+					"expanded_url": "https://twitter.com/_siPink/status/1188447472072310786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 998,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1664,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188447456087830500,
+					"id_str": "1188447456087830530",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH42qiZU8AIUlkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH42qiZU8AIUlkC.jpg",
+					"url": "https://t.co/vLunFqp9xd",
+					"display_url": "pic.twitter.com/vLunFqp9xd",
+					"expanded_url": "https://twitter.com/_siPink/status/1188447472072310786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1410,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188447456096186400,
+					"id_str": "1188447456096186368",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH42qibUcAAXsSz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH42qibUcAAXsSz.jpg",
+					"url": "https://t.co/vLunFqp9xd",
+					"display_url": "pic.twitter.com/vLunFqp9xd",
+					"expanded_url": "https://twitter.com/_siPink/status/1188447472072310786/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 863,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 407,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n#MAMAVOTE \n\nHIGHCUT VOL.249\nHQ scan https://t.co/vLunFqp9xd"
+	},
+	{
+		"created_at": "Mon Oct 28 10:00:29 +0000 2019",
+		"id": 1188401981158641700,
+		"id_str": "1188757419972677632",
+		"full_text": "https://t.co/74AxwPC8ln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188401950447943700,
+					"id_str": "1188401950447943680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NRwrUwAAbaQJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NRwrUwAAbaQJ.jpg",
+					"url": "https://t.co/74AxwPC8ln",
+					"display_url": "pic.twitter.com/74AxwPC8ln",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401981158641665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1523,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188401950447943700,
+					"id_str": "1188401950447943680",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NRwrUwAAbaQJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NRwrUwAAbaQJ.jpg",
+					"url": "https://t.co/74AxwPC8ln",
+					"display_url": "pic.twitter.com/74AxwPC8ln",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401981158641665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1523,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1188401875097288700,
+		"in_reply_to_status_id_str": "1188401875097288704",
+		"in_reply_to_user_id": 354739815,
+		"in_reply_to_user_id_str": "354739815",
+		"in_reply_to_screen_name": "_siPink",
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 93,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/74AxwPC8ln"
+	},
+	{
+		"created_at": "Mon Oct 28 10:00:24 +0000 2019",
+		"id": 1188401875097288700,
+		"id_str": "1188757398619484160",
+		"full_text": "#강다니엘 #KANGDANIEL\n#MAMAVOTE \n\nHIGHCUT VOL.249\nHQ scan https://t.co/RrXNpB3itF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "MAMAVOTE",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188401864133369900,
+					"id_str": "1188401864133369856",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NMvIU4AAbL1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NMvIU4AAbL1B.jpg",
+					"url": "https://t.co/RrXNpB3itF",
+					"display_url": "pic.twitter.com/RrXNpB3itF",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401875097288704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1435,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188401864133369900,
+					"id_str": "1188401864133369856",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NMvIU4AAbL1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NMvIU4AAbL1B.jpg",
+					"url": "https://t.co/RrXNpB3itF",
+					"display_url": "pic.twitter.com/RrXNpB3itF",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401875097288704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1435,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188401864565375000,
+					"id_str": "1188401864565374976",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NMwvUwAA5UGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NMwvUwAA5UGi.jpg",
+					"url": "https://t.co/RrXNpB3itF",
+					"display_url": "pic.twitter.com/RrXNpB3itF",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401875097288704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1406,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188401864200478700,
+					"id_str": "1188401864200478720",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NMvYU4AA0XcV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NMvYU4AA0XcV.jpg",
+					"url": "https://t.co/RrXNpB3itF",
+					"display_url": "pic.twitter.com/RrXNpB3itF",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401875097288704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1409,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1188401864292700200,
+					"id_str": "1188401864292700160",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EH4NMvuUEAA8NkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH4NMvuUEAA8NkT.jpg",
+					"url": "https://t.co/RrXNpB3itF",
+					"display_url": "pic.twitter.com/RrXNpB3itF",
+					"expanded_url": "https://twitter.com/_siPink/status/1188401875097288704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 859,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 502,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n#MAMAVOTE \n\nHIGHCUT VOL.249\nHQ scan https://t.co/RrXNpB3itF"
+	},
+	{
+		"created_at": "Mon Oct 28 10:00:13 +0000 2019",
+		"id": 1183389956049268700,
+		"id_str": "1188757354130493440",
+		"full_text": "#강다니엘 #KANGDANIEL\n\nSelfie Polaroid Set\nHQ scan https://t.co/Olln2GO1ZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183389944447766500,
+					"id_str": "1183389944447766528",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EGw-4nWUEAACwaj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGw-4nWUEAACwaj.jpg",
+					"url": "https://t.co/Olln2GO1ZB",
+					"display_url": "pic.twitter.com/Olln2GO1ZB",
+					"expanded_url": "https://twitter.com/_siPink/status/1183389956049268736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183389944447766500,
+					"id_str": "1183389944447766528",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EGw-4nWUEAACwaj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGw-4nWUEAACwaj.jpg",
+					"url": "https://t.co/Olln2GO1ZB",
+					"display_url": "pic.twitter.com/Olln2GO1ZB",
+					"expanded_url": "https://twitter.com/_siPink/status/1183389956049268736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183389944745562000,
+					"id_str": "1183389944745562112",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EGw-4odUEAA9gO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGw-4odUEAA9gO6.jpg",
+					"url": "https://t.co/Olln2GO1ZB",
+					"display_url": "pic.twitter.com/Olln2GO1ZB",
+					"expanded_url": "https://twitter.com/_siPink/status/1183389956049268736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 866,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 866,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1183389944447815700,
+					"id_str": "1183389944447815683",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EGw-4nWU0AMSkP2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGw-4nWU0AMSkP2.jpg",
+					"url": "https://t.co/Olln2GO1ZB",
+					"display_url": "pic.twitter.com/Olln2GO1ZB",
+					"expanded_url": "https://twitter.com/_siPink/status/1183389956049268736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 571,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 860,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 414,
+		"favorite_count": 610,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\nSelfie Polaroid Set\nHQ scan https://t.co/Olln2GO1ZB"
+	},
+	{
+		"created_at": "Mon Oct 28 10:00:02 +0000 2019",
+		"id": 1178667937239953400,
+		"id_str": "1188757305031983107",
+		"full_text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/OPr2eGuywD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178667921704276000,
+					"id_str": "1178667921704275968",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4Ot1U0AAju41.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4Ot1U0AAju41.jpg",
+					"url": "https://t.co/OPr2eGuywD",
+					"display_url": "pic.twitter.com/OPr2eGuywD",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667937239953410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 774,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178667921704276000,
+					"id_str": "1178667921704275968",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4Ot1U0AAju41.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4Ot1U0AAju41.jpg",
+					"url": "https://t.co/OPr2eGuywD",
+					"display_url": "pic.twitter.com/OPr2eGuywD",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667937239953410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 774,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178667921817473000,
+					"id_str": "1178667921817473025",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4OuQUEAEP8dr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4OuQUEAEP8dr.jpg",
+					"url": "https://t.co/OPr2eGuywD",
+					"display_url": "pic.twitter.com/OPr2eGuywD",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667937239953410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 772,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178667922576724000,
+					"id_str": "1178667922576723968",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4OxFVUAAMNgF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4OxFVUAAMNgF.jpg",
+					"url": "https://t.co/OPr2eGuywD",
+					"display_url": "pic.twitter.com/OPr2eGuywD",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667937239953410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 285,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/OPr2eGuywD"
+	},
+	{
+		"created_at": "Mon Oct 28 09:59:56 +0000 2019",
+		"id": 1178667812841111600,
+		"id_str": "1188757281707421696",
+		"full_text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/Seu4L99Ioq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178667802489548800,
+					"id_str": "1178667802489548800",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4HxuUcAA_R48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4HxuUcAA_R48.jpg",
+					"url": "https://t.co/Seu4L99Ioq",
+					"display_url": "pic.twitter.com/Seu4L99Ioq",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667812841111552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178667802489548800,
+					"id_str": "1178667802489548800",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4HxuUcAA_R48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4HxuUcAA_R48.jpg",
+					"url": "https://t.co/Seu4L99Ioq",
+					"display_url": "pic.twitter.com/Seu4L99Ioq",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667812841111552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 764,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178667803357790200,
+					"id_str": "1178667803357790208",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4H09UwAA6B87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4H09UwAA6B87.jpg",
+					"url": "https://t.co/Seu4L99Ioq",
+					"display_url": "pic.twitter.com/Seu4L99Ioq",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667812841111552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 762,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 762,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178667803336827000,
+					"id_str": "1178667803336826880",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4H04U4AAOxux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4H04U4AAOxux.jpg",
+					"url": "https://t.co/Seu4L99Ioq",
+					"display_url": "pic.twitter.com/Seu4L99Ioq",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667812841111552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178667803328401400,
+					"id_str": "1178667803328401408",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFt4H02UUAAlE-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFt4H02UUAAlE-K.jpg",
+					"url": "https://t.co/Seu4L99Ioq",
+					"display_url": "pic.twitter.com/Seu4L99Ioq",
+					"expanded_url": "https://twitter.com/_siPink/status/1178667812841111552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 760,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 385,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/Seu4L99Ioq"
+	},
+	{
+		"created_at": "Mon Oct 28 09:59:48 +0000 2019",
+		"id": 1178659639040176000,
+		"id_str": "1188757248278847488",
+		"full_text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/jetTDeGkEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178659625178058800,
+					"id_str": "1178659625178058757",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwry3VUAUcO_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwry3VUAUcO_3.jpg",
+					"url": "https://t.co/jetTDeGkEt",
+					"display_url": "pic.twitter.com/jetTDeGkEt",
+					"expanded_url": "https://twitter.com/_siPink/status/1178659639040176131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1544,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178659625178058800,
+					"id_str": "1178659625178058757",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwry3VUAUcO_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwry3VUAUcO_3.jpg",
+					"url": "https://t.co/jetTDeGkEt",
+					"display_url": "pic.twitter.com/jetTDeGkEt",
+					"expanded_url": "https://twitter.com/_siPink/status/1178659639040176131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1544,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178659625157062700,
+					"id_str": "1178659625157062656",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwryyU8AA-kYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwryyU8AA-kYH.jpg",
+					"url": "https://t.co/jetTDeGkEt",
+					"display_url": "pic.twitter.com/jetTDeGkEt",
+					"expanded_url": "https://twitter.com/_siPink/status/1178659639040176131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178659625169608700,
+					"id_str": "1178659625169608704",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwry1UYAAVRm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwry1UYAAVRm8.jpg",
+					"url": "https://t.co/jetTDeGkEt",
+					"display_url": "pic.twitter.com/jetTDeGkEt",
+					"expanded_url": "https://twitter.com/_siPink/status/1178659639040176131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 907,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1548,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178659625169645600,
+					"id_str": "1178659625169645569",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwry1U8AEnMfS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwry1U8AEnMfS.jpg",
+					"url": "https://t.co/jetTDeGkEt",
+					"display_url": "pic.twitter.com/jetTDeGkEt",
+					"expanded_url": "https://twitter.com/_siPink/status/1178659639040176131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1508,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 884,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 759,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/jetTDeGkEt"
+	},
+	{
+		"created_at": "Mon Oct 28 09:59:45 +0000 2019",
+		"id": 1178656602565427200,
+		"id_str": "1188757236459290624",
+		"full_text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/TLfbIzF3ET",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178656593291796500,
+					"id_str": "1178656593291796480",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtt7UNUYAAPl88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtt7UNUYAAPl88.jpg",
+					"url": "https://t.co/TLfbIzF3ET",
+					"display_url": "pic.twitter.com/TLfbIzF3ET",
+					"expanded_url": "https://twitter.com/_siPink/status/1178656602565427202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178656593291796500,
+					"id_str": "1178656593291796480",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtt7UNUYAAPl88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtt7UNUYAAPl88.jpg",
+					"url": "https://t.co/TLfbIzF3ET",
+					"display_url": "pic.twitter.com/TLfbIzF3ET",
+					"expanded_url": "https://twitter.com/_siPink/status/1178656602565427202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178656593287598000,
+					"id_str": "1178656593287598081",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtt7UMUUAEWHMQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtt7UMUUAEWHMQ.jpg",
+					"url": "https://t.co/TLfbIzF3ET",
+					"display_url": "pic.twitter.com/TLfbIzF3ET",
+					"expanded_url": "https://twitter.com/_siPink/status/1178656602565427202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1530,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178656593296023600,
+					"id_str": "1178656593296023553",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtt7UOU4AEO5Gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtt7UOU4AEO5Gx.jpg",
+					"url": "https://t.co/TLfbIzF3ET",
+					"display_url": "pic.twitter.com/TLfbIzF3ET",
+					"expanded_url": "https://twitter.com/_siPink/status/1178656602565427202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 831,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1385,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178656593291792400,
+					"id_str": "1178656593291792389",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtt7UNUUAUDz4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtt7UNUUAUDz4c.jpg",
+					"url": "https://t.co/TLfbIzF3ET",
+					"display_url": "pic.twitter.com/TLfbIzF3ET",
+					"expanded_url": "https://twitter.com/_siPink/status/1178656602565427202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 475,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\n201910 COSMOPLITAN HQ scan\nFOCUS ON DANIEL \n2000*2600 https://t.co/TLfbIzF3ET"
+	},
+	{
+		"created_at": "Mon Oct 28 09:59:43 +0000 2019",
+		"id": 1178335287467888600,
+		"id_str": "1188757227491868674",
+		"full_text": "#강다니엘 #KANGDANIEL\n\n201910 ELLE HQ scan\nFORTY SHADES OF KANG DANIEL\n2000*2600 https://t.co/nk7KC9GPO6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178335258334285800,
+					"id_str": "1178335258334285824",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpJrKNVUAANrG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpJrKNVUAANrG8.jpg",
+					"url": "https://t.co/nk7KC9GPO6",
+					"display_url": "pic.twitter.com/nk7KC9GPO6",
+					"expanded_url": "https://twitter.com/_siPink/status/1178335287467888641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178335258334285800,
+					"id_str": "1178335258334285824",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpJrKNVUAANrG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpJrKNVUAANrG8.jpg",
+					"url": "https://t.co/nk7KC9GPO6",
+					"display_url": "pic.twitter.com/nk7KC9GPO6",
+					"expanded_url": "https://twitter.com/_siPink/status/1178335287467888641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178335258330071000,
+					"id_str": "1178335258330071041",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpJrKMVAAEtGKK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpJrKMVAAEtGKK.jpg",
+					"url": "https://t.co/nk7KC9GPO6",
+					"display_url": "pic.twitter.com/nk7KC9GPO6",
+					"expanded_url": "https://twitter.com/_siPink/status/1178335287467888641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1378,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178335258342609000,
+					"id_str": "1178335258342608896",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpJrKPUUAAua7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpJrKPUUAAua7h.jpg",
+					"url": "https://t.co/nk7KC9GPO6",
+					"display_url": "pic.twitter.com/nk7KC9GPO6",
+					"expanded_url": "https://twitter.com/_siPink/status/1178335287467888641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178335258334249000,
+					"id_str": "1178335258334248960",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpJrKNUwAA9jYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpJrKNUwAA9jYw.jpg",
+					"url": "https://t.co/nk7KC9GPO6",
+					"display_url": "pic.twitter.com/nk7KC9GPO6",
+					"expanded_url": "https://twitter.com/_siPink/status/1178335287467888641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354739815,
+			"id_str": "354739815",
+			"name": "siPink",
+			"screen_name": "_siPink",
+			"location": "",
+			"description": "K.D",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2044,
+			"friends_count": 45,
+			"listed_count": 92,
+			"created_at": "Sun Aug 14 06:31:13 +0000 2011",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1006524291368693760/D11HW4tc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354739815/1528809069",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 586,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#강다니엘 #KANGDANIEL\n\n201910 ELLE HQ scan\nFORTY SHADES OF KANG DANIEL\n2000*2600 https://t.co/nk7KC9GPO6"
+	},
+	{
 		"created_at": "Mon Oct 28 08:09:12 +0000 2019",
 		"id": 1171950292469870600,
 		"id_str": "1188729416056049664",

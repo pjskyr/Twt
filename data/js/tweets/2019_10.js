@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 08:09:12 +0000 2019",
+		"id": 1171950292469870600,
+		"id_str": "1188729416056049664",
+		"full_text": "190912 ICN 출국 프리뷰\n\n#강다니엘 #KangDaniel https://t.co/sv41PhbFVQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171950273050210300,
+					"id_str": "1171950273050210304",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOakGeUcAAwdqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOakGeUcAAwdqW.jpg",
+					"url": "https://t.co/sv41PhbFVQ",
+					"display_url": "pic.twitter.com/sv41PhbFVQ",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171950292469870592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1613,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171950273050210300,
+					"id_str": "1171950273050210304",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOakGeUcAAwdqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOakGeUcAAwdqW.jpg",
+					"url": "https://t.co/sv41PhbFVQ",
+					"display_url": "pic.twitter.com/sv41PhbFVQ",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171950292469870592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1613,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171950273108951000,
+					"id_str": "1171950273108951040",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOakGsUwAAJnRP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOakGsUwAAJnRP.jpg",
+					"url": "https://t.co/sv41PhbFVQ",
+					"display_url": "pic.twitter.com/sv41PhbFVQ",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171950292469870592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1487,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171950273142521900,
+					"id_str": "1171950273142521856",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOakG0VAAAErBF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOakG0VAAAErBF.jpg",
+					"url": "https://t.co/sv41PhbFVQ",
+					"display_url": "pic.twitter.com/sv41PhbFVQ",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171950292469870592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171950273176072200,
+					"id_str": "1171950273176072192",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOakG8U8AAuzRk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOakG8U8AAuzRk.jpg",
+					"url": "https://t.co/sv41PhbFVQ",
+					"display_url": "pic.twitter.com/sv41PhbFVQ",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171950292469870592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147893645967626200,
+			"id_str": "1147893645967626240",
+			"name": "H.B🍑",
+			"screen_name": "HolyBaby1210",
+			"location": "7월 9일부터 시작합니다",
+			"description": "🍑Only 강다니엘🍑\nDANITY 1기\nH.B(홀베)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6850,
+			"friends_count": 1,
+			"listed_count": 272,
+			"created_at": "Sun Jul 07 15:42:26 +0000 2019",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184966392107425796/MnkrPOGg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184966392107425796/MnkrPOGg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147893645967626240/1564157803",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 711,
+		"favorite_count": 671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190912 ICN 출국 프리뷰\n\n#강다니엘 #KangDaniel https://t.co/sv41PhbFVQ"
+	},
+	{
+		"created_at": "Mon Oct 28 08:09:09 +0000 2019",
+		"id": 1171948822613725200,
+		"id_str": "1188729401585758213",
+		"full_text": "프리뷰찌는중😭 https://t.co/jeGwwPQoqt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171948808881619000,
+					"id_str": "1171948808881618945",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOZO4BUwAEx0tM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOZO4BUwAEx0tM.jpg",
+					"url": "https://t.co/jeGwwPQoqt",
+					"display_url": "pic.twitter.com/jeGwwPQoqt",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171948822613725184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171948808881619000,
+					"id_str": "1171948808881618945",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOZO4BUwAEx0tM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOZO4BUwAEx0tM.jpg",
+					"url": "https://t.co/jeGwwPQoqt",
+					"display_url": "pic.twitter.com/jeGwwPQoqt",
+					"expanded_url": "https://twitter.com/HolyBaby1210/status/1171948822613725184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1368,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147893645967626200,
+			"id_str": "1147893645967626240",
+			"name": "H.B🍑",
+			"screen_name": "HolyBaby1210",
+			"location": "7월 9일부터 시작합니다",
+			"description": "🍑Only 강다니엘🍑\nDANITY 1기\nH.B(홀베)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6850,
+			"friends_count": 1,
+			"listed_count": 272,
+			"created_at": "Sun Jul 07 15:42:26 +0000 2019",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184966392107425796/MnkrPOGg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184966392107425796/MnkrPOGg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147893645967626240/1564157803",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 382,
+		"favorite_count": 402,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프리뷰찌는중😭 https://t.co/jeGwwPQoqt"
+	},
+	{
+		"created_at": "Mon Oct 28 08:05:37 +0000 2019",
+		"id": 1171955070591570000,
+		"id_str": "1188728512103845889",
+		"full_text": "190912 #강다니엘\n가방끈 꼬옥 쥐는거 ㄱㅇㅇ😶 https://t.co/Quqd29IHoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						7,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171955059208286200,
+					"id_str": "1171955059208286208",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOe6sTU8AAic_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOe6sTU8AAic_0.jpg",
+					"url": "https://t.co/Quqd29IHoU",
+					"display_url": "pic.twitter.com/Quqd29IHoU",
+					"expanded_url": "https://twitter.com/DEJAVU_danik/status/1171955070591569921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171955059208286200,
+					"id_str": "1171955059208286208",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOe6sTU8AAic_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOe6sTU8AAic_0.jpg",
+					"url": "https://t.co/Quqd29IHoU",
+					"display_url": "pic.twitter.com/Quqd29IHoU",
+					"expanded_url": "https://twitter.com/DEJAVU_danik/status/1171955070591569921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171955059212480500,
+					"id_str": "1171955059212480513",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOe6sUU8AEOjr2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOe6sUU8AEOjr2.jpg",
+					"url": "https://t.co/Quqd29IHoU",
+					"display_url": "pic.twitter.com/Quqd29IHoU",
+					"expanded_url": "https://twitter.com/DEJAVU_danik/status/1171955070591569921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 868500205443756000,
+			"id_str": "868500205443756032",
+			"name": "데자부 DEJAVU",
+			"screen_name": "DEJAVU_danik",
+			"location": "📸=❤️",
+			"description": "#강다니엘 dejavu_danik@daum.net",
+			"url": "https://t.co/4rgVPSusG2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4rgVPSusG2",
+							"expanded_url": "http://instagram.com/dejavu_danik",
+							"display_url": "instagram.com/dejavu_danik",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91625,
+			"friends_count": 8,
+			"listed_count": 2222,
+			"created_at": "Sat May 27 16:12:39 +0000 2017",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187320280932204544/kMae_jx2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187320280932204544/kMae_jx2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868500205443756032/1499056088",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 955,
+		"favorite_count": 1276,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190912 #강다니엘\n가방끈 꼬옥 쥐는거 ㄱㅇㅇ😶 https://t.co/Quqd29IHoU"
+	},
+	{
 		"created_at": "Mon Oct 28 07:53:16 +0000 2019",
 		"id": 1171949018915541000,
 		"id_str": "1188725406301474816",

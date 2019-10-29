@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 03:07:24 +0000 2019",
+		"id": 1171956495342174200,
+		"id_str": "1189015851996860417",
+		"full_text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/6rpv4QgG2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171956486827696000,
+					"id_str": "1171956486827696128",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOgNymUYAAx1-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOgNymUYAAx1-m.jpg",
+					"url": "https://t.co/6rpv4QgG2g",
+					"display_url": "pic.twitter.com/6rpv4QgG2g",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171956495342174208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 943,
+							"h": 1432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171956486827696000,
+					"id_str": "1171956486827696128",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOgNymUYAAx1-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOgNymUYAAx1-m.jpg",
+					"url": "https://t.co/6rpv4QgG2g",
+					"display_url": "pic.twitter.com/6rpv4QgG2g",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171956495342174208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 790,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 943,
+							"h": 1432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171956486823542800,
+					"id_str": "1171956486823542784",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOgNylVAAAk62J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOgNylVAAAk62J.jpg",
+					"url": "https://t.co/6rpv4QgG2g",
+					"display_url": "pic.twitter.com/6rpv4QgG2g",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171956495342174208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1003,
+							"h": 1526,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 789,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/6rpv4QgG2g"
+	},
+	{
+		"created_at": "Tue Oct 29 03:07:21 +0000 2019",
+		"id": 1171955887767838700,
+		"id_str": "1189015838247907328",
+		"full_text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/CsYHA0k1om",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171955879618343000,
+					"id_str": "1171955879618342912",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfqckU8AAXcXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfqckU8AAXcXb.jpg",
+					"url": "https://t.co/CsYHA0k1om",
+					"display_url": "pic.twitter.com/CsYHA0k1om",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171955887767838720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1027,
+							"h": 1643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171955879618343000,
+					"id_str": "1171955879618342912",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfqckU8AAXcXb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfqckU8AAXcXb.jpg",
+					"url": "https://t.co/CsYHA0k1om",
+					"display_url": "pic.twitter.com/CsYHA0k1om",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171955887767838720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1027,
+							"h": 1643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171955879626735600,
+					"id_str": "1171955879626735616",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfqcmVAAAhxdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfqcmVAAAhxdT.jpg",
+					"url": "https://t.co/CsYHA0k1om",
+					"display_url": "pic.twitter.com/CsYHA0k1om",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171955887767838720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 1452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/CsYHA0k1om"
+	},
+	{
+		"created_at": "Tue Oct 29 03:07:18 +0000 2019",
+		"id": 1171954799220117500,
+		"id_str": "1189015824301871104",
+		"full_text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/pkntHvDLVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171954790504353800,
+					"id_str": "1171954790504353794",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOerDTUUAIkKDG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOerDTUUAIkKDG.jpg",
+					"url": "https://t.co/pkntHvDLVN",
+					"display_url": "pic.twitter.com/pkntHvDLVN",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171954799220117504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 1405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171954790504353800,
+					"id_str": "1171954790504353794",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOerDTUUAIkKDG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOerDTUUAIkKDG.jpg",
+					"url": "https://t.co/pkntHvDLVN",
+					"display_url": "pic.twitter.com/pkntHvDLVN",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171954799220117504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 934,
+							"h": 1405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ICN \n\n#강다니엘 #KangDaniel https://t.co/pkntHvDLVN"
+	},
+	{
+		"created_at": "Tue Oct 29 03:07:14 +0000 2019",
+		"id": 1171954310004891600,
+		"id_str": "1189015808858607616",
+		"full_text": "190912 ICN\n\n#강다니엘 #KangDaniel https://t.co/Htc22hwE2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171954301729591300,
+					"id_str": "1171954301729591296",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOeOmeVUAAKP4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOeOmeVUAAKP4q.jpg",
+					"url": "https://t.co/Htc22hwE2z",
+					"display_url": "pic.twitter.com/Htc22hwE2z",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171954310004891648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 1390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171954301729591300,
+					"id_str": "1171954301729591296",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOeOmeVUAAKP4q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOeOmeVUAAKP4q.jpg",
+					"url": "https://t.co/Htc22hwE2z",
+					"display_url": "pic.twitter.com/Htc22hwE2z",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171954310004891648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 1390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171954301733761000,
+					"id_str": "1171954301733761026",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOeOmfU8AI_jKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOeOmfU8AI_jKg.jpg",
+					"url": "https://t.co/Htc22hwE2z",
+					"display_url": "pic.twitter.com/Htc22hwE2z",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171954310004891648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 954,
+							"h": 1478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ICN\n\n#강다니엘 #KangDaniel https://t.co/Htc22hwE2z"
+	},
+	{
+		"created_at": "Tue Oct 29 03:07:11 +0000 2019",
+		"id": 1171953280571736000,
+		"id_str": "1189015796334227456",
+		"full_text": "190912 ICN 출국 프리뷰\n\n#강다니엘 #KangDaniel https://t.co/nBRcZWRm9j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171953272963227600,
+					"id_str": "1171953272963227648",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdSuBUYAAUS8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdSuBUYAAUS8Y.jpg",
+					"url": "https://t.co/nBRcZWRm9j",
+					"display_url": "pic.twitter.com/nBRcZWRm9j",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171953280571736064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 1376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171953272963227600,
+					"id_str": "1171953272963227648",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdSuBUYAAUS8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdSuBUYAAUS8Y.jpg",
+					"url": "https://t.co/nBRcZWRm9j",
+					"display_url": "pic.twitter.com/nBRcZWRm9j",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171953280571736064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 912,
+							"h": 1376,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171953273206530000,
+					"id_str": "1171953273206530050",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdSu7U4AIoqAS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdSu7U4AIoqAS.jpg",
+					"url": "https://t.co/nBRcZWRm9j",
+					"display_url": "pic.twitter.com/nBRcZWRm9j",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171953280571736064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 938,
+							"h": 1430,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190912 ICN 출국 프리뷰\n\n#강다니엘 #KangDaniel https://t.co/nBRcZWRm9j"
+	},
+	{
+		"created_at": "Tue Oct 29 03:07:06 +0000 2019",
+		"id": 1171952465756868600,
+		"id_str": "1189015777115901952",
+		"full_text": "190912 ICN\n\n#강다니엘 #KangDaniel https://t.co/iGQsi7Opno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171952457414393900,
+					"id_str": "1171952457414393857",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOcjP3UwAELGZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOcjP3UwAELGZY.jpg",
+					"url": "https://t.co/iGQsi7Opno",
+					"display_url": "pic.twitter.com/iGQsi7Opno",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171952465756868608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 914,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171952457414393900,
+					"id_str": "1171952457414393857",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOcjP3UwAELGZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOcjP3UwAELGZY.jpg",
+					"url": "https://t.co/iGQsi7Opno",
+					"display_url": "pic.twitter.com/iGQsi7Opno",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171952465756868608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 914,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171952457414393900,
+					"id_str": "1171952457414393856",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOcjP3UwAA2n4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOcjP3UwAA2n4W.jpg",
+					"url": "https://t.co/iGQsi7Opno",
+					"display_url": "pic.twitter.com/iGQsi7Opno",
+					"expanded_url": "https://twitter.com/thirdnorthstar/status/1171952465756868608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1164,
+							"h": 1833,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 762,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080498712621641700,
+			"id_str": "1080498712621641728",
+			"name": "ThirdNorthStar_dn •🅓🅐🅝🅘🅣🅨•",
+			"screen_name": "thirdnorthstar",
+			"location": "Seoul, Republic of Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 2,
+			"listed_count": 80,
+			"created_at": "Wed Jan 02 16:19:02 +0000 2019",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159737452879208450/YD3JM9-q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ICN\n\n#강다니엘 #KangDaniel https://t.co/iGQsi7Opno"
+	},
+	{
 		"created_at": "Tue Oct 29 02:52:32 +0000 2019",
 		"id": 1171954971413139500,
 		"id_str": "1189012108865703936",

@@ -1,6 +1,1385 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 07:53:57 +0000 2019",
+		"id": 1171957660607897600,
+		"id_str": "1189450352535293952",
+		"full_text": "190912 ♥️\n#강다니엘 #다니엘 https://t.co/XYNdODxjOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "다니엘",
+					"indices": [
+						16,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171957646976401400,
+					"id_str": "1171957646976401408",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOhRUfUwAALWiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOhRUfUwAALWiK.jpg",
+					"url": "https://t.co/XYNdODxjOy",
+					"display_url": "pic.twitter.com/XYNdODxjOy",
+					"expanded_url": "https://twitter.com/Dandelion_1210/status/1171957660607897600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1626,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 504,
+									"y": 455,
+									"h": 731,
+									"w": 731
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 284,
+									"h": 456,
+									"w": 456
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 504,
+									"y": 455,
+									"h": 731,
+									"w": 731
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 161,
+									"h": 258,
+									"w": 258
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171957646976401400,
+					"id_str": "1171957646976401408",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOhRUfUwAALWiK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOhRUfUwAALWiK.jpg",
+					"url": "https://t.co/XYNdODxjOy",
+					"display_url": "pic.twitter.com/XYNdODxjOy",
+					"expanded_url": "https://twitter.com/Dandelion_1210/status/1171957660607897600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1626,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 504,
+									"y": 455,
+									"h": 731,
+									"w": 731
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 314,
+									"y": 284,
+									"h": 456,
+									"w": 456
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 504,
+									"y": 455,
+									"h": 731,
+									"w": 731
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 178,
+									"y": 161,
+									"h": 258,
+									"w": 258
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1171957647014154200,
+					"id_str": "1171957647014154240",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOhRUoU0AAHhFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOhRUoU0AAHhFC.jpg",
+					"url": "https://t.co/XYNdODxjOy",
+					"display_url": "pic.twitter.com/XYNdODxjOy",
+					"expanded_url": "https://twitter.com/Dandelion_1210/status/1171957660607897600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1533,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 958,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 401,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 480,
+									"y": 573,
+									"h": 688,
+									"w": 688
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 101,
+									"y": 401,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 480,
+									"y": 573,
+									"h": 688,
+									"w": 688
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 63,
+									"y": 250,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 299,
+									"y": 358,
+									"h": 429,
+									"w": 429
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 142,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 170,
+									"y": 202,
+									"h": 243,
+									"w": 243
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 877548693741649900,
+			"id_str": "877548693741649920",
+			"name": "민들녤 🌸",
+			"screen_name": "Dandelion_1210",
+			"location": "니가 있는 곳",
+			"description": ":: 강다니엘 = ✨ = ❤️ ::  계절이 지나도 너여야만해",
+			"url": "https://t.co/OnwG7aUMqu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OnwG7aUMqu",
+							"expanded_url": "http://dandelion1210.tistory.com/",
+							"display_url": "dandelion1210.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47344,
+			"friends_count": 1,
+			"listed_count": 1451,
+			"created_at": "Wed Jun 21 15:28:07 +0000 2017",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172523893342425088/IU6OQibn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172523893342425088/IU6OQibn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/877548693741649920/1563289689",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "190912 ♥️\n#강다니엘 #다니엘 https://t.co/XYNdODxjOy"
+	},
+	{
+		"created_at": "Wed Oct 30 07:50:20 +0000 2019",
+		"id": 1171965519571738600,
+		"id_str": "1189449442799173632",
+		"full_text": "190912 \n힘든걸 잊게하는 왕댜님🤴\n대만에서 보쟝\n\n#강다니엘 #kangdaniel https://t.co/L90mL5UIDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "kangdaniel",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171965486596157400,
+					"id_str": "1171965486596157440",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOoZpWU8AAx1Dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOoZpWU8AAx1Dp.jpg",
+					"url": "https://t.co/L90mL5UIDe",
+					"display_url": "pic.twitter.com/L90mL5UIDe",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171965519571738626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1115,
+							"h": 1678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 200,
+									"h": 361,
+									"w": 361
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 280,
+									"h": 506,
+									"w": 506
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 280,
+									"h": 506,
+									"w": 506
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 113,
+									"h": 205,
+									"w": 205
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171965486596157400,
+					"id_str": "1171965486596157440",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOoZpWU8AAx1Dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOoZpWU8AAx1Dp.jpg",
+					"url": "https://t.co/L90mL5UIDe",
+					"display_url": "pic.twitter.com/L90mL5UIDe",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171965519571738626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1115,
+							"h": 1678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 106,
+									"y": 200,
+									"h": 361,
+									"w": 361
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 280,
+									"h": 506,
+									"w": 506
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 149,
+									"y": 280,
+									"h": 506,
+									"w": 506
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 60,
+									"y": 113,
+									"h": 205,
+									"w": 205
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1171965494531723300,
+					"id_str": "1171965494531723264",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOoaG6UEAAvyhu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOoaG6UEAAvyhu.jpg",
+					"url": "https://t.co/L90mL5UIDe",
+					"display_url": "pic.twitter.com/L90mL5UIDe",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171965519571738626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1135,
+							"h": 1703,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 1348,
+									"h": 271,
+									"w": 271
+								},
+								{
+									"x": 317,
+									"y": 259,
+									"h": 480,
+									"w": 480
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 343,
+									"y": 950,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 223,
+									"y": 182,
+									"h": 338,
+									"w": 338
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 194,
+									"y": 538,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 126,
+									"y": 103,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 488,
+									"y": 1348,
+									"h": 271,
+									"w": 271
+								},
+								{
+									"x": 317,
+									"y": 259,
+									"h": 480,
+									"w": 480
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1171965504312889300,
+					"id_str": "1171965504312889344",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOoarWU0AA1HKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOoarWU0AA1HKV.jpg",
+					"url": "https://t.co/L90mL5UIDe",
+					"display_url": "pic.twitter.com/L90mL5UIDe",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171965519571738626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1184,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 479,
+									"y": 300,
+									"h": 503,
+									"w": 503
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 479,
+									"y": 300,
+									"h": 503,
+									"w": 503
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 182,
+									"y": 114,
+									"h": 191,
+									"w": 191
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 320,
+									"y": 200,
+									"h": 336,
+									"w": 336
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1171965513322205200,
+					"id_str": "1171965513322205185",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOobM6UEAESxkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOobM6UEAESxkD.jpg",
+					"url": "https://t.co/L90mL5UIDe",
+					"display_url": "pic.twitter.com/L90mL5UIDe",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171965519571738626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 445,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1068,
+							"h": 1633,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 785,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 175,
+									"h": 111,
+									"w": 111
+								},
+								{
+									"x": 106,
+									"y": 103,
+									"h": 203,
+									"w": 203
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 422,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 255,
+									"y": 248,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 422,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 255,
+									"y": 248,
+									"h": 489,
+									"w": 489
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 61,
+									"y": 310,
+									"h": 196,
+									"w": 196
+								},
+								{
+									"x": 187,
+									"y": 182,
+									"h": 359,
+									"w": 359
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951822125261729800,
+			"id_str": "951822125261729794",
+			"name": "+ PlusMinus -",
+			"screen_name": "plusminus1210",
+			"location": "DANITY🖤",
+			"description": "더할 것도 뺄 것도 없이 그 자체가 완벽한 다니엘                      \n\n로고크롭🚫 2차가공🚫                            \nhttps://t.co/V83KhpGwwU…",
+			"url": "https://t.co/9DjVM8qLpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9DjVM8qLpx",
+							"expanded_url": "https://youtu.be/-Npx9YC2_5Q",
+							"display_url": "youtu.be/-Npx9YC2_5Q",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V83KhpGwwU",
+							"expanded_url": "http://tv.naver.com/v/9544790?open",
+							"display_url": "tv.naver.com/v/9544790?open",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21474,
+			"friends_count": 7,
+			"listed_count": 541,
+			"created_at": "Fri Jan 12 14:24:13 +0000 2018",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173300039025774592/MjHUynB0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173300039025774592/MjHUynB0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951822125261729794/1564580666",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 984,
+		"favorite_count": 1381,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190912 \n힘든걸 잊게하는 왕댜님🤴\n대만에서 보쟝\n\n#강다니엘 #kangdaniel https://t.co/L90mL5UIDe"
+	},
+	{
+		"created_at": "Wed Oct 30 07:50:12 +0000 2019",
+		"id": 1171953786450956300,
+		"id_str": "1189449406510059522",
+		"full_text": "190912 \n눈바 ㅜㅠ 콩누닝 ㅇ&lt;-&lt;\n겨워.....\n#강다니엘 #kangdaniel https://t.co/40p4sdeP0H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "kangdaniel",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171953758315483100,
+					"id_str": "1171953758315483136",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdu-GUEAABnvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdu-GUEAABnvT.jpg",
+					"url": "https://t.co/40p4sdeP0H",
+					"display_url": "pic.twitter.com/40p4sdeP0H",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171953786450956289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 559,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 176,
+									"y": 128,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 872,
+									"y": 1686,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 532,
+									"y": 388,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 511,
+									"y": 988,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 311,
+									"y": 227,
+									"h": 233,
+									"w": 233
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 872,
+									"y": 1686,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 532,
+									"y": 388,
+									"h": 398,
+									"w": 398
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171953758315483100,
+					"id_str": "1171953758315483136",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdu-GUEAABnvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdu-GUEAABnvT.jpg",
+					"url": "https://t.co/40p4sdeP0H",
+					"display_url": "pic.twitter.com/40p4sdeP0H",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171953786450956289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 559,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 176,
+									"y": 128,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 872,
+									"y": 1686,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 532,
+									"y": 388,
+									"h": 398,
+									"w": 398
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 511,
+									"y": 988,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 311,
+									"y": 227,
+									"h": 233,
+									"w": 233
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 872,
+									"y": 1686,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 532,
+									"y": 388,
+									"h": 398,
+									"w": 398
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1171953772139954200,
+					"id_str": "1171953772139954176",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOdvxmUwAAHF21.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOdvxmUwAAHF21.jpg",
+					"url": "https://t.co/40p4sdeP0H",
+					"display_url": "pic.twitter.com/40p4sdeP0H",
+					"expanded_url": "https://twitter.com/plusminus1210/status/1171953786450956289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1451,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1664,
+									"y": 742,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 828,
+									"y": 376,
+									"h": 364,
+									"w": 364
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1664,
+									"y": 742,
+									"h": 238,
+									"w": 238
+								},
+								{
+									"x": 828,
+									"y": 376,
+									"h": 364,
+									"w": 364
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 975,
+									"y": 434,
+									"h": 139,
+									"w": 139
+								},
+								{
+									"x": 485,
+									"y": 220,
+									"h": 213,
+									"w": 213
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 552,
+									"y": 246,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 274,
+									"y": 124,
+									"h": 120,
+									"w": 120
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 951822125261729800,
+			"id_str": "951822125261729794",
+			"name": "+ PlusMinus -",
+			"screen_name": "plusminus1210",
+			"location": "DANITY🖤",
+			"description": "더할 것도 뺄 것도 없이 그 자체가 완벽한 다니엘                      \n\n로고크롭🚫 2차가공🚫                            \nhttps://t.co/V83KhpGwwU…",
+			"url": "https://t.co/9DjVM8qLpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9DjVM8qLpx",
+							"expanded_url": "https://youtu.be/-Npx9YC2_5Q",
+							"display_url": "youtu.be/-Npx9YC2_5Q",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/V83KhpGwwU",
+							"expanded_url": "http://tv.naver.com/v/9544790?open",
+							"display_url": "tv.naver.com/v/9544790?open",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21474,
+			"friends_count": 7,
+			"listed_count": 541,
+			"created_at": "Fri Jan 12 14:24:13 +0000 2018",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173300039025774592/MjHUynB0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173300039025774592/MjHUynB0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/951822125261729794/1564580666",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 817,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190912 \n눈바 ㅜㅠ 콩누닝 ㅇ&lt;-&lt;\n겨워.....\n#강다니엘 #kangdaniel https://t.co/40p4sdeP0H"
+	},
+	{
 		"created_at": "Tue Oct 29 03:07:24 +0000 2019",
 		"id": 1171956495342174200,
 		"id_str": "1189015851996860417",

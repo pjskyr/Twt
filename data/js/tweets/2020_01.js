@@ -1,6 +1,1077 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 15:35:32 +0000 2020",
+		"id": 1221448645800685600,
+		"id_str": "1221456643600211968",
+		"full_text": "누구보다 행복해야 해 민현아 https://t.co/hLShO50h3c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221448443463233500,
+					"id_str": "1221448443463233536",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPN040gUcAAltJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPN040gUcAAltJT.jpg",
+					"url": "https://t.co/hLShO50h3c",
+					"display_url": "pic.twitter.com/hLShO50h3c",
+					"expanded_url": "https://twitter.com/MyHappiness_89/status/1221448645800685573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221448443463233500,
+					"id_str": "1221448443463233536",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPN040gUcAAltJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPN040gUcAAltJT.jpg",
+					"url": "https://t.co/hLShO50h3c",
+					"display_url": "pic.twitter.com/hLShO50h3c",
+					"expanded_url": "https://twitter.com/MyHappiness_89/status/1221448645800685573/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							4
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPN040gUcAAltJT.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1055852825735913500,
+			"id_str": "1055852825735913472",
+			"name": "마이 해피니스",
+			"screen_name": "MyHappiness_89",
+			"location": "",
+			"description": "나의 행복 #황민현",
+			"url": "https://t.co/NPzoKgMlAb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NPzoKgMlAb",
+							"expanded_url": "https://89-mh.tistory.com",
+							"display_url": "89-mh.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3475,
+			"friends_count": 1,
+			"listed_count": 130,
+			"created_at": "Fri Oct 26 16:05:05 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218562076580306945/DPdYktOa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218562076580306945/DPdYktOa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055852825735913472/1579362814",
+			"profile_link_color": "C8A676",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누구보다 행복해야 해 민현아 https://t.co/hLShO50h3c"
+	},
+	{
+		"created_at": "Sun Jan 26 15:35:11 +0000 2020",
+		"id": 1089527395881644000,
+		"id_str": "1221456556991995905",
+		"full_text": "Wanna One X Wannable\n봄날의 우리를 잊지 않을게요\n\nALL I WANNA DO WANNA ONE\n지금까지 워너원이었습니다\n\n#WannaOne #워너원 #KangDaniel #KimJaeHwan #LaiKuanLin\n#ParkWooJin #ParkJiHoon #BaeJinYoung #OngSeongWu\n#YoonJiSung #LeeDaeHwi #HaSungWoon #HwangMinHyun https://t.co/hvSYZD2hfb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "KimJaeHwan",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "LaiKuanLin",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "ParkWooJin",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "ParkJiHoon",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"text": "BaeJinYoung",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"text": "OngSeongWu",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "YoonJiSung",
+					"indices": [
+						178,
+						189
+					]
+				},
+				{
+					"text": "LeeDaeHwi",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "HaSungWoon",
+					"indices": [
+						201,
+						212
+					]
+				},
+				{
+					"text": "HwangMinHyun",
+					"indices": [
+						213,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089527388038287400,
+					"id_str": "1089527388038287362",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7HYwkU0AIwVYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7HYwkU0AIwVYO.jpg",
+					"url": "https://t.co/hvSYZD2hfb",
+					"display_url": "pic.twitter.com/hvSYZD2hfb",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089527395881644032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089527388038287400,
+					"id_str": "1089527388038287362",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7HYwkU0AIwVYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7HYwkU0AIwVYO.jpg",
+					"url": "https://t.co/hvSYZD2hfb",
+					"display_url": "pic.twitter.com/hvSYZD2hfb",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089527395881644032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/OsoRWuEbJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsoRWuEbJA",
+							"expanded_url": "http://cafe.daum.net/WannaOneOfficial",
+							"display_url": "cafe.daum.net/WannaOneOffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990277,
+			"friends_count": 0,
+			"listed_count": 4392,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1540873450",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95601,
+		"favorite_count": 160323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Wanna One X Wannable\n봄날의 우리를 잊지 않을게요\n\nALL I WANNA DO WANNA ONE\n지금까지 워너원이었습니다\n\n#WannaOne #워너원 #KangDaniel #KimJaeHwan #LaiKuanLin\n#ParkWooJin #ParkJiHoon #BaeJinYoung #OngSeongWu\n#YoonJiSung #LeeDaeHwi #HaSungWoon #HwangMinHyun https://t.co/hvSYZD2hfb"
+	},
+	{
+		"created_at": "Sun Jan 26 15:35:01 +0000 2020",
+		"id": 1089526401823170600,
+		"id_str": "1221456517490077698",
+		"full_text": "512 Days of Wanna One \n봄날의 우리를 잊지 않을게요\n\n#WannaOne #워너원 #KangDaniel #KimJaeHwan #LaiKuanLin\n#ParkWooJin #ParkJiHoon #BaeJinYoung #OngSeongWu\n#YoonJiSung #LeeDaeHwi #HaSungWoon #HwangMinHyun https://t.co/Td45TVsSj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "KangDaniel",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"text": "KimJaeHwan",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "LaiKuanLin",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "ParkWooJin",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "ParkJiHoon",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "BaeJinYoung",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "OngSeongWu",
+					"indices": [
+						128,
+						139
+					]
+				},
+				{
+					"text": "YoonJiSung",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "LeeDaeHwi",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "HaSungWoon",
+					"indices": [
+						163,
+						174
+					]
+				},
+				{
+					"text": "HwangMinHyun",
+					"indices": [
+						175,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089526335091798000,
+					"id_str": "1089526335091798016",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089526335091798016/pu/img/BMwgAXt_IazwPyrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089526335091798016/pu/img/BMwgAXt_IazwPyrW.jpg",
+					"url": "https://t.co/Td45TVsSj2",
+					"display_url": "pic.twitter.com/Td45TVsSj2",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089526401823170561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089526335091798000,
+					"id_str": "1089526335091798016",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1089526335091798016/pu/img/BMwgAXt_IazwPyrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1089526335091798016/pu/img/BMwgAXt_IazwPyrW.jpg",
+					"url": "https://t.co/Td45TVsSj2",
+					"display_url": "pic.twitter.com/Td45TVsSj2",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089526401823170561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 103625,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089526335091798016/pu/vid/854x480/mZ7USW6XWjS4nkbY.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089526335091798016/pu/vid/640x360/lz1RWQksI83brj2P.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1089526335091798016/pu/pl/uA3BhgobHFBE-9uN.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1089526335091798016/pu/vid/320x180/eZQcBwoGGbrXSIqT.mp4?tag=6"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/OsoRWuEbJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsoRWuEbJA",
+							"expanded_url": "http://cafe.daum.net/WannaOneOfficial",
+							"display_url": "cafe.daum.net/WannaOneOffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990277,
+			"friends_count": 0,
+			"listed_count": 4392,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1540873450",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114570,
+		"favorite_count": 186834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "512 Days of Wanna One \n봄날의 우리를 잊지 않을게요\n\n#WannaOne #워너원 #KangDaniel #KimJaeHwan #LaiKuanLin\n#ParkWooJin #ParkJiHoon #BaeJinYoung #OngSeongWu\n#YoonJiSung #LeeDaeHwi #HaSungWoon #HwangMinHyun https://t.co/Td45TVsSj2"
+	},
+	{
+		"created_at": "Sun Jan 26 15:34:58 +0000 2020",
+		"id": 1089523452053049300,
+		"id_str": "1221456500805103616",
+		"full_text": "2019.01.24 – 01.27\n2019 Wanna One Concert [Therefore]\n\n∴ Therefore, We Were One \n\n#WannaOne #워너원 #2019WannaOneConcert #Therefore https://t.co/YHLD2Zw3nC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "2019WannaOneConcert",
+					"indices": [
+						97,
+						117
+					]
+				},
+				{
+					"text": "Therefore",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089523443178004500,
+					"id_str": "1089523443178004481",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7DzI0V4AEv6H4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7DzI0V4AEv6H4.jpg",
+					"url": "https://t.co/YHLD2Zw3nC",
+					"display_url": "pic.twitter.com/YHLD2Zw3nC",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089523452053049345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089523443178004500,
+					"id_str": "1089523443178004481",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7DzI0V4AEv6H4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7DzI0V4AEv6H4.jpg",
+					"url": "https://t.co/YHLD2Zw3nC",
+					"display_url": "pic.twitter.com/YHLD2Zw3nC",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089523452053049345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1089523443165347800,
+					"id_str": "1089523443165347842",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7DzIxUwAIEqYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7DzIxUwAIEqYY.jpg",
+					"url": "https://t.co/YHLD2Zw3nC",
+					"display_url": "pic.twitter.com/YHLD2Zw3nC",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1089523452053049345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/OsoRWuEbJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsoRWuEbJA",
+							"expanded_url": "http://cafe.daum.net/WannaOneOfficial",
+							"display_url": "cafe.daum.net/WannaOneOffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990277,
+			"friends_count": 0,
+			"listed_count": 4392,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1540873450",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83156,
+		"favorite_count": 141541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2019.01.24 – 01.27\n2019 Wanna One Concert [Therefore]\n\n∴ Therefore, We Were One \n\n#WannaOne #워너원 #2019WannaOneConcert #Therefore https://t.co/YHLD2Zw3nC"
+	},
+	{
 		"created_at": "Sun Jan 26 02:48:51 +0000 2020",
 		"id": 1089136428292821000,
 		"id_str": "1221263701405077504",

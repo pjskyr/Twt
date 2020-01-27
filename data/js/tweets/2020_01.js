@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 00:31:28 +0000 2020",
+		"id": 1221445065920270300,
+		"id_str": "1221591516566573058",
+		"full_text": "190124-190127 우리 워너블 사랑합니다\n\n그냥 진짜 보고싶다 많이\n\n#Therefore_one_year\n#열한개의별_언제나_응원해\n\n&gt;&gt; 계속 다시 올려서 죄송해요 ㅠㅠ 문구가 바뀌어서.. https://t.co/3WmCngyiH7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Therefore_one_year",
+					"indices": [
+						43,
+						62
+					]
+				},
+				{
+					"text": "열한개의별_언제나_응원해",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221444964816543700,
+					"id_str": "1221444964816543745",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221444964816543745/pu/img/MpWRVMq8jMwsjjEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221444964816543745/pu/img/MpWRVMq8jMwsjjEI.jpg",
+					"url": "https://t.co/3WmCngyiH7",
+					"display_url": "pic.twitter.com/3WmCngyiH7",
+					"expanded_url": "https://twitter.com/WO_archive/status/1221445065920270341/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221444964816543700,
+					"id_str": "1221444964816543745",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221444964816543745/pu/img/MpWRVMq8jMwsjjEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221444964816543745/pu/img/MpWRVMq8jMwsjjEI.jpg",
+					"url": "https://t.co/3WmCngyiH7",
+					"display_url": "pic.twitter.com/3WmCngyiH7",
+					"expanded_url": "https://twitter.com/WO_archive/status/1221445065920270341/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17080,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1221444964816543745/pu/pl/rhSsLRji0lzAV3Mg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221444964816543745/pu/vid/1280x720/pQs8aCjwcS3jMMp-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221444964816543745/pu/vid/640x360/tmByUlpIxuKCS5yp.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221444964816543745/pu/vid/480x270/HjfzesUV_Kv1ruHm.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1176452088554897400,
+			"id_str": "1176452088554897408",
+			"name": "워너원 아카이브",
+			"screen_name": "WO_archive",
+			"location": "",
+			"description": "fan account | 워너블의 추팔을 책임집니다",
+			"url": "https://t.co/T03KBdpbud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T03KBdpbud",
+							"expanded_url": "http://asked.kr/WOarchive",
+							"display_url": "asked.kr/WOarchive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3404,
+			"friends_count": 1,
+			"listed_count": 10,
+			"created_at": "Tue Sep 24 11:03:39 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1176452088554897408/1579455606",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1414,
+		"favorite_count": 879,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "190124-190127 우리 워너블 사랑합니다\n\n그냥 진짜 보고싶다 많이\n\n#Therefore_one_year\n#열한개의별_언제나_응원해\n\n&gt;&gt; 계속 다시 올려서 죄송해요 ㅠㅠ 문구가 바뀌어서.. https://t.co/3WmCngyiH7"
+	},
+	{
 		"created_at": "Sun Jan 26 15:35:32 +0000 2020",
 		"id": 1221448645800685600,
 		"id_str": "1221456643600211968",

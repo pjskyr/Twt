@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 14:27:35 +0000 2021",
+		"id": 1469305432309395500,
+		"id_str": "1469312847281016838",
+		"full_text": "[#2021MAMA] 20211210 Mnet 2021 MAMA 사전녹화 재참여 안내\n@ https://t.co/rV3Sk7iy4m\n#WannaOne #워너원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "WannaOne",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						84,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rV3Sk7iy4m",
+					"expanded_url": "https://cafe.daum.net/WannaOneOfficial/RPsh/197",
+					"display_url": "cafe.daum.net/WannaOneOffici…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466619983853912000,
+		"in_reply_to_status_id_str": "1466619983853912065",
+		"in_reply_to_user_id": 872005518084251600,
+		"in_reply_to_user_id_str": "872005518084251648",
+		"in_reply_to_screen_name": "WannaOne_twt",
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/OsoRWuEbJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsoRWuEbJA",
+							"expanded_url": "http://cafe.daum.net/WannaOneOfficial",
+							"display_url": "cafe.daum.net/WannaOneOffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2841011,
+			"friends_count": 0,
+			"listed_count": 3064,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1540873450",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2981,
+		"favorite_count": 5419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2021MAMA] 20211210 Mnet 2021 MAMA 사전녹화 재참여 안내\n@ https://t.co/rV3Sk7iy4m\n#WannaOne #워너원"
+	},
+	{
 		"created_at": "Fri Dec 10 08:08:01 +0000 2021",
 		"id": 1469191576073416700,
 		"id_str": "1469217323789987842",

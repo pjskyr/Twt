@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 11:51:44 +0000 2021",
+		"id": 1469618589577920500,
+		"id_str": "1469636012087607301",
+		"full_text": "Coming up next https://t.co/8qwu4czVxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469618508950499300,
+					"id_str": "1469618508950499328",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469618508950499328/pu/img/_o0D4Fng8DWh1fYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469618508950499328/pu/img/_o0D4Fng8DWh1fYR.jpg",
+					"url": "https://t.co/8qwu4czVxA",
+					"display_url": "pic.twitter.com/8qwu4czVxA",
+					"expanded_url": "https://twitter.com/wannaonehaengba/status/1469618589577920516/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469618508950499300,
+					"id_str": "1469618508950499328",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469618508950499328/pu/img/_o0D4Fng8DWh1fYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469618508950499328/pu/img/_o0D4Fng8DWh1fYR.jpg",
+					"url": "https://t.co/8qwu4czVxA",
+					"display_url": "pic.twitter.com/8qwu4czVxA",
+					"expanded_url": "https://twitter.com/wannaonehaengba/status/1469618589577920516/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15583,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469618508950499328/pu/vid/640x360/-IXPjzjVUVB1WWSj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469618508950499328/pu/pl/f9iLY4rQG5uS1rWc.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469618508950499328/pu/vid/480x270/__Afu1YM6OwSlmYJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469618508950499328/pu/vid/1280x720/46MO0MrZGyYy5aDB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884600841826521100,
+			"id_str": "884600841826521088",
+			"name": "Haengba",
+			"screen_name": "wannaonehaengba",
+			"location": "",
+			"description": "Don't re-upload & edit the file name. I am not owner of files. All rights reserved to each original owners. If you want to delete any contents please DM to me.",
+			"url": "https://t.co/6kdZbSdPkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kdZbSdPkp",
+							"expanded_url": "https://www.youtube.com/channel/UCO_cAoDDmyQRbJjUr6vLnvA",
+							"display_url": "youtube.com/channel/UCO_cA…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17233,
+			"friends_count": 15,
+			"listed_count": 122,
+			"created_at": "Tue Jul 11 02:30:50 +0000 2017",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982840918347624449/0TgLgJvT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982840918347624449/0TgLgJvT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884600841826521088/1523025224",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 127,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coming up next https://t.co/8qwu4czVxA"
+	},
+	{
 		"created_at": "Sat Dec 11 06:24:16 +0000 2021",
 		"id": 1469518492437454800,
 		"id_str": "1469553602851405827",

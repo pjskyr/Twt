@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 06:24:16 +0000 2021",
+		"id": 1469518492437454800,
+		"id_str": "1469553602851405827",
+		"full_text": "[#2021MAMA] Performer Line-up Remind!\n\nCheck the Performer Line-up once again,\nwhile waiting for 2021 MAMA.\n\nMAKE SOME NOISE, 2021 MAMA\n✔️ Red Carpet - TODAY 4PM(KST)\n✔️ Awards Ceremony - TODAY 6PM (KST)\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet https://t.co/jiZ6O7fpp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "MnetAsianMusicAwards",
+					"indices": [
+						205,
+						226
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						233,
+						247
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						248,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469518482362404900,
+					"id_str": "1469518482362404869",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTHRhwVEAUH0S2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTHRhwVEAUH0S2.jpg",
+					"url": "https://t.co/jiZ6O7fpp1",
+					"display_url": "pic.twitter.com/jiZ6O7fpp1",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469518492437454852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469518482362404900,
+					"id_str": "1469518482362404869",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTHRhwVEAUH0S2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTHRhwVEAUH0S2.jpg",
+					"url": "https://t.co/jiZ6O7fpp1",
+					"display_url": "pic.twitter.com/jiZ6O7fpp1",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469518492437454852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469518482375000000,
+					"id_str": "1469518482375000067",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FGTHRhzVQAMg-OX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGTHRhzVQAMg-OX.jpg",
+					"url": "https://t.co/jiZ6O7fpp1",
+					"display_url": "pic.twitter.com/jiZ6O7fpp1",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469518492437454852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2434110,
+			"friends_count": 104,
+			"listed_count": 2132,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5776,
+		"favorite_count": 13456,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA] Performer Line-up Remind!\n\nCheck the Performer Line-up once again,\nwhile waiting for 2021 MAMA.\n\nMAKE SOME NOISE, 2021 MAMA\n✔️ Red Carpet - TODAY 4PM(KST)\n✔️ Awards Ceremony - TODAY 6PM (KST)\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet https://t.co/jiZ6O7fpp1"
+	},
+	{
 		"created_at": "Sat Dec 11 05:52:54 +0000 2021",
 		"id": 1467690259815141400,
 		"id_str": "1469545707258679296",

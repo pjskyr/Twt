@@ -1,6 +1,2471 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 02:49:19 +0000 2021",
+		"id": 1469660189293187000,
+		"id_str": "1469861895108988929",
+		"full_text": "[#2021MAMA_Behind] MAMA VIEWING ROOM #워너원 #WannaOne\n\nMeet the artists who are at MAMA VIEWING ROOM Before on stage!\n*본 콘텐츠는 코로나19 방역 지침을 준수하여 촬영되었습니다.\n\n#2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/k85J5VXrig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Behind",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "WannaOne",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469660178773540900,
+					"id_str": "1469660178773540864",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVIJWBVgAAq_UJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVIJWBVgAAq_UJ.jpg",
+					"url": "https://t.co/k85J5VXrig",
+					"display_url": "pic.twitter.com/k85J5VXrig",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469660189293187077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469660178773540900,
+					"id_str": "1469660178773540864",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVIJWBVgAAq_UJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVIJWBVgAAq_UJ.jpg",
+					"url": "https://t.co/k85J5VXrig",
+					"display_url": "pic.twitter.com/k85J5VXrig",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469660189293187077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452197,
+			"friends_count": 104,
+			"listed_count": 2160,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12356,
+		"favorite_count": 20657,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2021MAMA_Behind] MAMA VIEWING ROOM #워너원 #WannaOne\n\nMeet the artists who are at MAMA VIEWING ROOM Before on stage!\n*본 콘텐츠는 코로나19 방역 지침을 준수하여 촬영되었습니다.\n\n#2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/k85J5VXrig"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:24 +0000 2021",
+		"id": 1469683010278953000,
+		"id_str": "1469860156142145539",
+		"full_text": "[#JIHOONNow]\n\n에너제틱한 모습으로 무대를 활활 불 태운 beautiful한 지훈🐰👑\n\n아니 글쎄, #MAMA 에 왕자님이 나왔다고 해서 봤더니 우리 지훈이였더라구요?😍\n\n#2021MAMA 은 지훈이가 찢었다💥\n\n#박지훈 #PARKJIHOON https://t.co/OrzritpPOi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JIHOONNow",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						129,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469683001294422000,
+					"id_str": "1469683001294422021",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVc5yiVgAURcC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVc5yiVgAURcC_.jpg",
+					"url": "https://t.co/OrzritpPOi",
+					"display_url": "pic.twitter.com/OrzritpPOi",
+					"expanded_url": "https://twitter.com/Park_Jihoon_twt/status/1469683010278952960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469683001294422000,
+					"id_str": "1469683001294422021",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVc5yiVgAURcC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVc5yiVgAURcC_.jpg",
+					"url": "https://t.co/OrzritpPOi",
+					"display_url": "pic.twitter.com/OrzritpPOi",
+					"expanded_url": "https://twitter.com/Park_Jihoon_twt/status/1469683010278952960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469683001298587600,
+					"id_str": "1469683001298587648",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVc5yjVEAAhI0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVc5yjVEAAhI0z.jpg",
+					"url": "https://t.co/OrzritpPOi",
+					"display_url": "pic.twitter.com/OrzritpPOi",
+					"expanded_url": "https://twitter.com/Park_Jihoon_twt/status/1469683010278952960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078164530843115500,
+			"id_str": "1078164530843115520",
+			"name": "박지훈 (ParkJihoon)",
+			"screen_name": "Park_Jihoon_twt",
+			"location": "",
+			"description": "🐰공식 팬카페 https://t.co/ZDYA6fcVmB",
+			"url": "https://t.co/VjC3DLvebs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VjC3DLvebs",
+							"expanded_url": "https://www.youtube.com/c/PARKJIHOONOfficial",
+							"display_url": "youtube.com/c/PARKJIHOONOf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZDYA6fcVmB",
+							"expanded_url": "http://cafe.daum.net/park-jihoon",
+							"display_url": "cafe.daum.net/park-jihoon",
+							"indices": [
+								8,
+								31
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 339686,
+			"friends_count": 1,
+			"listed_count": 1607,
+			"created_at": "Thu Dec 27 05:43:50 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453647740450131969/ZnI8I8Sn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453647740450131969/ZnI8I8Sn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078164530843115520/1635411604",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8707,
+		"favorite_count": 17385,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#JIHOONNow]\n\n에너제틱한 모습으로 무대를 활활 불 태운 beautiful한 지훈🐰👑\n\n아니 글쎄, #MAMA 에 왕자님이 나왔다고 해서 봤더니 우리 지훈이였더라구요?😍\n\n#2021MAMA 은 지훈이가 찢었다💥\n\n#박지훈 #PARKJIHOON https://t.co/OrzritpPOi"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:21 +0000 2021",
+		"id": 1469682850278494200,
+		"id_str": "1469860144951742467",
+		"full_text": "[#째니의발자국🐾]\n눈이 부시게 아름다워 beautiful~ \n오늘도 윈드의 사랑으로 환하게 \n빛났던 김째니( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)🪄✨\n늦은 밤까지 함께해 주신 윈드 감사합니다!\n그럼 모두 짼나잇~!🐶\n\n#김재환 #KIMJAEHWAN https://t.co/7BKkMegOK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "째니의발자국",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "김재환",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "KIMJAEHWAN",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469682844184154000,
+					"id_str": "1469682844184154112",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVcwpQVEAAB28K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVcwpQVEAAB28K.jpg",
+					"url": "https://t.co/7BKkMegOK2",
+					"display_url": "pic.twitter.com/7BKkMegOK2",
+					"expanded_url": "https://twitter.com/KJH_officialtwt/status/1469682850278494211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469682844184154000,
+					"id_str": "1469682844184154112",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVcwpQVEAAB28K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVcwpQVEAAB28K.jpg",
+					"url": "https://t.co/7BKkMegOK2",
+					"display_url": "pic.twitter.com/7BKkMegOK2",
+					"expanded_url": "https://twitter.com/KJH_officialtwt/status/1469682850278494211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081073237465808900,
+			"id_str": "1081073237465808896",
+			"name": "김재환 KIM JAEHWAN",
+			"screen_name": "KJH_officialtwt",
+			"location": "",
+			"description": "김재환 공식 TWITTER입니다.🌙🎸",
+			"url": "https://t.co/fdWA4yRKOa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fdWA4yRKOa",
+							"expanded_url": "http://cafe.daum.net/KJHOfficial",
+							"display_url": "cafe.daum.net/KJHOfficial",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253980,
+			"friends_count": 0,
+			"listed_count": 1093,
+			"created_at": "Fri Jan 04 06:21:59 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379723268534329344/5-JhSY98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379723268534329344/5-JhSY98_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081073237465808896/1617786638",
+			"profile_link_color": "AFACE1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8836,
+		"favorite_count": 14775,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#째니의발자국🐾]\n눈이 부시게 아름다워 beautiful~ \n오늘도 윈드의 사랑으로 환하게 \n빛났던 김째니( ⸝⸝⸝ʚ̴̶̷̆ωʚ̴̶̷̆⸝⸝)🪄✨\n늦은 밤까지 함께해 주신 윈드 감사합니다!\n그럼 모두 짼나잇~!🐶\n\n#김재환 #KIMJAEHWAN https://t.co/7BKkMegOK2"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:18 +0000 2021",
+		"id": 1469666301413310500,
+		"id_str": "1469860132565950469",
+		"full_text": "잼있고 행복했다~ㅎ https://t.co/gNN5zHnQJQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469666279455817700,
+					"id_str": "1469666279455817733",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVNsc1VgAUuV8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVNsc1VgAUuV8F.jpg",
+					"url": "https://t.co/gNN5zHnQJQ",
+					"display_url": "pic.twitter.com/gNN5zHnQJQ",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469666301413310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469666279455817700,
+					"id_str": "1469666279455817733",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVNsc1VgAUuV8F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVNsc1VgAUuV8F.jpg",
+					"url": "https://t.co/gNN5zHnQJQ",
+					"display_url": "pic.twitter.com/gNN5zHnQJQ",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469666301413310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469666291229233200,
+					"id_str": "1469666291229233156",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVNtIsVkAQztlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVNtIsVkAQztlK.jpg",
+					"url": "https://t.co/gNN5zHnQJQ",
+					"display_url": "pic.twitter.com/gNN5zHnQJQ",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469666301413310465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096346129782829000,
+			"id_str": "1096346129782829056",
+			"name": "AB6IX_MEMBERS",
+			"screen_name": "AB6IX_MEMBERS",
+			"location": "",
+			"description": "AB6IX MEMBERS TWITTER",
+			"url": "https://t.co/iL56PRbJEu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iL56PRbJEu",
+							"expanded_url": "http://www.brandnewmusic.co.kr",
+							"display_url": "brandnewmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481260,
+			"friends_count": 2,
+			"listed_count": 2997,
+			"created_at": "Fri Feb 15 09:51:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440873745757847559/KU_WhkfJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440873745757847559/KU_WhkfJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096346129782829056/1632366047",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10866,
+		"favorite_count": 25094,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잼있고 행복했다~ㅎ https://t.co/gNN5zHnQJQ"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:16 +0000 2021",
+		"id": 1469665250157166600,
+		"id_str": "1469860120872251393",
+		"full_text": "MAMA🖤 \n잘컸어? 나?😊\n\n#CIX #FIX #팬바라기 #배진영 #JINYOUNG #BAEJINYOUNG #워너원 #WannaOne #MAMA https://t.co/7RoKgfI0LX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CIX",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "FIX",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "팬바라기",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "배진영",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "JINYOUNG",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"text": "BAEJINYOUNG",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "WannaOne",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						76,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469665243039027200,
+					"id_str": "1469665243039027200",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMwH4UUAAqXFh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMwH4UUAAqXFh.jpg",
+					"url": "https://t.co/7RoKgfI0LX",
+					"display_url": "pic.twitter.com/7RoKgfI0LX",
+					"expanded_url": "https://twitter.com/CIX_twt/status/1469665250157166593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469665243039027200,
+					"id_str": "1469665243039027200",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMwH4UUAAqXFh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMwH4UUAAqXFh.jpg",
+					"url": "https://t.co/7RoKgfI0LX",
+					"display_url": "pic.twitter.com/7RoKgfI0LX",
+					"expanded_url": "https://twitter.com/CIX_twt/status/1469665250157166593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469665243043225600,
+					"id_str": "1469665243043225600",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMwH5UYAAT9Fu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMwH5UYAAT9Fu.jpg",
+					"url": "https://t.co/7RoKgfI0LX",
+					"display_url": "pic.twitter.com/7RoKgfI0LX",
+					"expanded_url": "https://twitter.com/CIX_twt/status/1469665250157166593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469665243043299300,
+					"id_str": "1469665243043299328",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMwH5VgAAUkIV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMwH5VgAAUkIV.jpg",
+					"url": "https://t.co/7RoKgfI0LX",
+					"display_url": "pic.twitter.com/7RoKgfI0LX",
+					"expanded_url": "https://twitter.com/CIX_twt/status/1469665250157166593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469665243051688000,
+					"id_str": "1469665243051687939",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMwH7VgAMmIlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMwH7VgAMmIlM.jpg",
+					"url": "https://t.co/7RoKgfI0LX",
+					"display_url": "pic.twitter.com/7RoKgfI0LX",
+					"expanded_url": "https://twitter.com/CIX_twt/status/1469665250157166593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1130305605585870800,
+			"id_str": "1130305605585870848",
+			"name": "CIX",
+			"screen_name": "CIX_twt",
+			"location": "",
+			"description": "CIX Official MEMBERS TWITTER",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 500014,
+			"friends_count": 3,
+			"listed_count": 5,
+			"created_at": "Mon May 20 02:53:51 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427284348009533447/xpPYxEE8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427284348009533447/xpPYxEE8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130305605585870848/1629126081",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12310,
+		"favorite_count": 26735,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAMA🖤 \n잘컸어? 나?😊\n\n#CIX #FIX #팬바라기 #배진영 #JINYOUNG #BAEJINYOUNG #워너원 #WannaOne #MAMA https://t.co/7RoKgfI0LX"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:13 +0000 2021",
+		"id": 1469664069657391000,
+		"id_str": "1469860109169819648",
+		"full_text": "오랜만에 \n마마에서 멋진 무대 보여드릴수있게 \n해주신 많은 분들 감사합니다!\n지켜봐주셔서 감사해요~!\n#MAMA2021 #MAMA ❤️ https://t.co/jMOGQ2sjkL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAMA2021",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469664034903363600,
+					"id_str": "1469664034903363592",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVLpzOVEAgdyDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVLpzOVEAgdyDe.jpg",
+					"url": "https://t.co/jMOGQ2sjkL",
+					"display_url": "pic.twitter.com/jMOGQ2sjkL",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469664069657391112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469664034903363600,
+					"id_str": "1469664034903363592",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVLpzOVEAgdyDe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVLpzOVEAgdyDe.jpg",
+					"url": "https://t.co/jMOGQ2sjkL",
+					"display_url": "pic.twitter.com/jMOGQ2sjkL",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469664069657391112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469664036040052700,
+					"id_str": "1469664036040052736",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVLp3dVkAAXjR3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVLp3dVkAAXjR3.jpg",
+					"url": "https://t.co/jMOGQ2sjkL",
+					"display_url": "pic.twitter.com/jMOGQ2sjkL",
+					"expanded_url": "https://twitter.com/AB6IX_MEMBERS/status/1469664069657391112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1096346129782829000,
+			"id_str": "1096346129782829056",
+			"name": "AB6IX_MEMBERS",
+			"screen_name": "AB6IX_MEMBERS",
+			"location": "",
+			"description": "AB6IX MEMBERS TWITTER",
+			"url": "https://t.co/iL56PRbJEu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iL56PRbJEu",
+							"expanded_url": "http://www.brandnewmusic.co.kr",
+							"display_url": "brandnewmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481260,
+			"friends_count": 2,
+			"listed_count": 2997,
+			"created_at": "Fri Feb 15 09:51:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440873745757847559/KU_WhkfJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440873745757847559/KU_WhkfJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1096346129782829056/1632366047",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9404,
+		"favorite_count": 20823,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜만에 \n마마에서 멋진 무대 보여드릴수있게 \n해주신 많은 분들 감사합니다!\n지켜봐주셔서 감사해요~!\n#MAMA2021 #MAMA ❤️ https://t.co/jMOGQ2sjkL"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:10 +0000 2021",
+		"id": 1469660775187107800,
+		"id_str": "1469860096830504960",
+		"full_text": "[#오늘의윤잘생]\n\n오랜만에 서게 된 #2021MAMA 무대! 밥알들🍚 어떠셨나요?😊 무엇보다 팬분들과 함께 할 수 있어 더욱 뜻깊고 행복했던 순간이었습니다✨💖 응원해 주시고 지켜봐 주신 모든 분들 감사드립니다🥰 그럼 오늘도 룽나잇🌙\n\n#윤지성 #YoonJisung https://t.co/w7dUzagZ3b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의윤잘생",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"text": "윤지성",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "YoonJisung",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469660765569249300,
+					"id_str": "1469660765569249284",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVIrgAVcAQF28x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVIrgAVcAQF28x.jpg",
+					"url": "https://t.co/w7dUzagZ3b",
+					"display_url": "pic.twitter.com/w7dUzagZ3b",
+					"expanded_url": "https://twitter.com/Official_YJS_/status/1469660775187107843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469660765569249300,
+					"id_str": "1469660765569249284",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVIrgAVcAQF28x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVIrgAVcAQF28x.jpg",
+					"url": "https://t.co/w7dUzagZ3b",
+					"display_url": "pic.twitter.com/w7dUzagZ3b",
+					"expanded_url": "https://twitter.com/Official_YJS_/status/1469660775187107843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469660765581832200,
+					"id_str": "1469660765581832193",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVIrgDVcAEhPwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVIrgDVcAEhPwE.jpg",
+					"url": "https://t.co/w7dUzagZ3b",
+					"display_url": "pic.twitter.com/w7dUzagZ3b",
+					"expanded_url": "https://twitter.com/Official_YJS_/status/1469660775187107843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070949871950000100,
+			"id_str": "1070949871950000128",
+			"name": "윤지성 (Yoon Jisung) Official",
+			"screen_name": "Official_YJS_",
+			"location": "",
+			"description": "윤지성 (Yoon Jisung) Official Twitter / 공식카페 https://t.co/fZUh80qAK0 / 공식유튜브 https://t.co/vK5JaUikgo…",
+			"url": "https://t.co/doqAiMSCah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/doqAiMSCah",
+							"expanded_url": "http://yoonjisung.lm-ent.com",
+							"display_url": "yoonjisung.lm-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fZUh80qAK0",
+							"expanded_url": "http://cafe.daum.net/YJS.Official",
+							"display_url": "cafe.daum.net/YJS.Official",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/vK5JaUikgo",
+							"expanded_url": "http://youtube.com/c/YoonJisungOf",
+							"display_url": "youtube.com/c/YoonJisungOf",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249843,
+			"friends_count": 1,
+			"listed_count": 1068,
+			"created_at": "Fri Dec 07 07:55:21 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465244983796330496/e0QXa0-S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465244983796330496/e0QXa0-S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070949871950000128/1638176604",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6990,
+		"favorite_count": 14274,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오늘의윤잘생]\n\n오랜만에 서게 된 #2021MAMA 무대! 밥알들🍚 어떠셨나요?😊 무엇보다 팬분들과 함께 할 수 있어 더욱 뜻깊고 행복했던 순간이었습니다✨💖 응원해 주시고 지켜봐 주신 모든 분들 감사드립니다🥰 그럼 오늘도 룽나잇🌙\n\n#윤지성 #YoonJisung https://t.co/w7dUzagZ3b"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:07 +0000 2021",
+		"id": 1469655889435316200,
+		"id_str": "1469860084084011010",
+		"full_text": "[Oh!녤]\n다니티♡\n\n#강다니엘 #KANGDANIEL https://t.co/1NyM1q3XFj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강다니엘",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "KANGDANIEL",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469655878114504700,
+					"id_str": "1469655878114504708",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVEPA0UcAQWoQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVEPA0UcAQWoQG.jpg",
+					"url": "https://t.co/1NyM1q3XFj",
+					"display_url": "pic.twitter.com/1NyM1q3XFj",
+					"expanded_url": "https://twitter.com/konnect_danielk/status/1469655889435316224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469655878114504700,
+					"id_str": "1469655878114504708",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVEPA0UcAQWoQG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVEPA0UcAQWoQG.jpg",
+					"url": "https://t.co/1NyM1q3XFj",
+					"display_url": "pic.twitter.com/1NyM1q3XFj",
+					"expanded_url": "https://twitter.com/konnect_danielk/status/1469655889435316224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469655884095647700,
+					"id_str": "1469655884095647744",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVEPXGVcAAvaFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVEPXGVcAAvaFo.jpg",
+					"url": "https://t.co/1NyM1q3XFj",
+					"display_url": "pic.twitter.com/1NyM1q3XFj",
+					"expanded_url": "https://twitter.com/konnect_danielk/status/1469655889435316224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1137562469017088000,
+			"id_str": "1137562469017088000",
+			"name": "강다니엘 KANGDANIEL",
+			"screen_name": "konnect_danielk",
+			"location": "",
+			"description": "강다니엘 공식 트위터 (KANGDANIEL Official Twitter)",
+			"url": "https://t.co/T8sZLdADHO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T8sZLdADHO",
+							"expanded_url": "http://konnectent.com/",
+							"display_url": "konnectent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 453530,
+			"friends_count": 3,
+			"listed_count": 1684,
+			"created_at": "Sun Jun 09 03:30:02 +0000 2019",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422755183558230024/Mnm7-m9K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422755183558230024/Mnm7-m9K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1137562469017088000/1628046245",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21693,
+		"favorite_count": 36257,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Oh!녤]\n다니티♡\n\n#강다니엘 #KANGDANIEL https://t.co/1NyM1q3XFj"
+	},
+	{
+		"created_at": "Sun Dec 12 02:42:00 +0000 2021",
+		"id": 1469587759803388000,
+		"id_str": "1469860056401588224",
+		"full_text": "[NEWS] 잠시 후 6시⏰\nMnet &lt;2021 MAMA&gt;에 #민현 이 출연합니다🦊\n\n#뉴이스트 #NUEST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민현",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "뉴이스트",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "NUEST",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 474531610,
+			"id_str": "474531610",
+			"name": "뉴이스트(NU’EST)",
+			"screen_name": "NUESTNEWS",
+			"location": "",
+			"description": "뉴이스트 공식 트위터 (NU'EST Official Twitter)",
+			"url": "https://t.co/h0yWvIppfy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h0yWvIppfy",
+							"expanded_url": "http://cafe.daum.net/nuest",
+							"display_url": "cafe.daum.net/nuest",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963578,
+			"friends_count": 4,
+			"listed_count": 3357,
+			"created_at": "Thu Jan 26 02:51:50 +0000 2012",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374376644513652745/n2EKVbDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374376644513652745/n2EKVbDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/474531610/1618153505",
+			"profile_link_color": "FF1F8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2409,
+		"favorite_count": 4688,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[NEWS] 잠시 후 6시⏰\nMnet &lt;2021 MAMA&gt;에 #민현 이 출연합니다🦊\n\n#뉴이스트 #NUEST"
+	},
+	{
+		"created_at": "Sun Dec 12 02:41:57 +0000 2021",
+		"id": 1469585243854180400,
+		"id_str": "1469860043403460608",
+		"full_text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤‍🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박지훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1078164530843115500,
+			"id_str": "1078164530843115520",
+			"name": "박지훈 (ParkJihoon)",
+			"screen_name": "Park_Jihoon_twt",
+			"location": "",
+			"description": "🐰공식 팬카페 https://t.co/ZDYA6fcVmB",
+			"url": "https://t.co/VjC3DLvebs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VjC3DLvebs",
+							"expanded_url": "https://www.youtube.com/c/PARKJIHOONOfficial",
+							"display_url": "youtube.com/c/PARKJIHOONOf…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZDYA6fcVmB",
+							"expanded_url": "http://cafe.daum.net/park-jihoon",
+							"display_url": "cafe.daum.net/park-jihoon",
+							"indices": [
+								8,
+								31
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 339686,
+			"friends_count": 1,
+			"listed_count": 1607,
+			"created_at": "Thu Dec 27 05:43:50 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453647740450131969/ZnI8I8Sn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453647740450131969/ZnI8I8Sn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078164530843115520/1635411604",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2218,
+		"favorite_count": 5419,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤‍🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA"
+	},
+	{
+		"created_at": "Sun Dec 12 02:41:54 +0000 2021",
+		"id": 1469577713807929300,
+		"id_str": "1469860028178124800",
+		"full_text": "🔔\n2021.12.11 18:00 (KST)\n2021 Mnet ASIAN MUSIC AWARDS (우진, 대휘)\n✨ 잠시 후 Mnet과 TVING에서 만나요! ✨\n\n#AB6IX #에이비식스 #전웅 #김동현 #박우진 #이대휘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AB6IX",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "에이비식스",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "전웅",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "김동현",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "박우진",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "이대휘",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1437350417155776500,
+			"id_str": "1437350417155776513",
+			"name": "AB6IX_STAFF",
+			"screen_name": "AB6IX_STAFF",
+			"location": "",
+			"description": "AB6IX 서포터즈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8120,
+			"friends_count": 4,
+			"listed_count": 46,
+			"created_at": "Mon Sep 13 09:40:39 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1440875299600621570/9RaIbq5C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440875299600621570/9RaIbq5C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437350417155776513/1632366418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 678,
+		"favorite_count": 1273,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔔\n2021.12.11 18:00 (KST)\n2021 Mnet ASIAN MUSIC AWARDS (우진, 대휘)\n✨ 잠시 후 Mnet과 TVING에서 만나요! ✨\n\n#AB6IX #에이비식스 #전웅 #김동현 #박우진 #이대휘"
+	},
+	{
+		"created_at": "Sun Dec 12 02:41:51 +0000 2021",
+		"id": 1469577701610561500,
+		"id_str": "1469860015528099845",
+		"full_text": "잠시 후, 저녁 6시 #2021MAMA (엠넷 아시안 뮤직 어워즈) 윤지성이 출연합니다. \n \n#윤지성 #YoonJisung #MAMA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "윤지성",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "YoonJisung",
+					"indices": [
+						58,
+						69
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070949871950000100,
+			"id_str": "1070949871950000128",
+			"name": "윤지성 (Yoon Jisung) Official",
+			"screen_name": "Official_YJS_",
+			"location": "",
+			"description": "윤지성 (Yoon Jisung) Official Twitter / 공식카페 https://t.co/fZUh80qAK0 / 공식유튜브 https://t.co/vK5JaUikgo…",
+			"url": "https://t.co/doqAiMSCah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/doqAiMSCah",
+							"expanded_url": "http://yoonjisung.lm-ent.com",
+							"display_url": "yoonjisung.lm-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fZUh80qAK0",
+							"expanded_url": "http://cafe.daum.net/YJS.Official",
+							"display_url": "cafe.daum.net/YJS.Official",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/vK5JaUikgo",
+							"expanded_url": "http://youtube.com/c/YoonJisungOf",
+							"display_url": "youtube.com/c/YoonJisungOf",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249843,
+			"friends_count": 1,
+			"listed_count": 1068,
+			"created_at": "Fri Dec 07 07:55:21 +0000 2018",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465244983796330496/e0QXa0-S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465244983796330496/e0QXa0-S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070949871950000128/1638176604",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1489,
+		"favorite_count": 3964,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "잠시 후, 저녁 6시 #2021MAMA (엠넷 아시안 뮤직 어워즈) 윤지성이 출연합니다. \n \n#윤지성 #YoonJisung #MAMA"
+	},
+	{
 		"created_at": "Sat Dec 11 11:51:44 +0000 2021",
 		"id": 1469618589577920500,
 		"id_str": "1469636012087607301",

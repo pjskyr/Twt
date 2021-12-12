@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 08:51:30 +0000 2021",
+		"id": 1469879956641828900,
+		"id_str": "1469953044649771015",
+		"full_text": "[#워너원데이] Wanna One이라는 이름으로 다시 만날 수 있어서 행복했습니다💕 언제나 함께라는 마음으로 늘 행복하세요! 약속٩(ˊᗜˋ*)و https://t.co/RQKAUb2LUk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너원데이",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469879947342663700,
+					"id_str": "1469879947342663681",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYQBjvUUAEqZ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYQBjvUUAEqZ6p.jpg",
+					"url": "https://t.co/RQKAUb2LUk",
+					"display_url": "pic.twitter.com/RQKAUb2LUk",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1469879956641828869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469879947342663700,
+					"id_str": "1469879947342663681",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/FGYQBjvUUAEqZ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGYQBjvUUAEqZ6p.jpg",
+					"url": "https://t.co/RQKAUb2LUk",
+					"display_url": "pic.twitter.com/RQKAUb2LUk",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1469879956641828869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1086,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/OsoRWuEbJA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OsoRWuEbJA",
+							"expanded_url": "http://cafe.daum.net/WannaOneOfficial",
+							"display_url": "cafe.daum.net/WannaOneOffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2852763,
+			"friends_count": 0,
+			"listed_count": 3094,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057121108686626816/2Ulu9neU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1540873450",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55866,
+		"favorite_count": 89019,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#워너원데이] Wanna One이라는 이름으로 다시 만날 수 있어서 행복했습니다💕 언제나 함께라는 마음으로 늘 행복하세요! 약속٩(ˊᗜˋ*)و https://t.co/RQKAUb2LUk"
+	},
+	{
 		"created_at": "Sun Dec 12 04:58:27 +0000 2021",
 		"id": 1469657092617543700,
 		"id_str": "1469894393511710722",

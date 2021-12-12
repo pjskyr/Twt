@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 04:58:27 +0000 2021",
+		"id": 1469657092617543700,
+		"id_str": "1469894393511710722",
+		"full_text": "Official pictures of @WannaOne_twt's performance during @MnetMAMA. 💙 #MAMA2021 #WannaOne https://t.co/eUr4li8qK8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAMA2021",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "WannaOne",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WannaOne_twt",
+					"name": "Wanna One",
+					"id": 872005518084251600,
+					"id_str": "872005518084251648",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "MnetMAMA",
+					"name": "MAMA(엠넷아시안뮤직어워즈)",
+					"id": 128487133,
+					"id_str": "128487133",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469656736835326000,
+					"id_str": "1469656736835325954",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVFA_zUUAI782V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVFA_zUUAI782V.jpg",
+					"url": "https://t.co/eUr4li8qK8",
+					"display_url": "pic.twitter.com/eUr4li8qK8",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657092617543681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469656736835326000,
+					"id_str": "1469656736835325954",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVFA_zUUAI782V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVFA_zUUAI782V.jpg",
+					"url": "https://t.co/eUr4li8qK8",
+					"display_url": "pic.twitter.com/eUr4li8qK8",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657092617543681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469656737267413000,
+					"id_str": "1469656737267412997",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVFBBaVcAUPZHD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVFBBaVcAUPZHD.jpg",
+					"url": "https://t.co/eUr4li8qK8",
+					"display_url": "pic.twitter.com/eUr4li8qK8",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657092617543681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469656737644908500,
+					"id_str": "1469656737644908544",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVFBC0VkAAqnMi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVFBC0VkAAqnMi.jpg",
+					"url": "https://t.co/eUr4li8qK8",
+					"display_url": "pic.twitter.com/eUr4li8qK8",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657092617543681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469656737934241800,
+					"id_str": "1469656737934241793",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVFBD5UcAEY5d4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVFBD5UcAEY5d4.jpg",
+					"url": "https://t.co/eUr4li8qK8",
+					"display_url": "pic.twitter.com/eUr4li8qK8",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657092617543681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2555928204,
+			"id_str": "2555928204",
+			"name": "KpopHerald",
+			"screen_name": "Kpop_Herald",
+			"location": "Seoul, South Korea",
+			"description": "Hi besties 🤗 It's #PTD time in LA! 💜 #PTD_KpopHerald",
+			"url": "https://t.co/A4B5pSKyTy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4B5pSKyTy",
+							"expanded_url": "http://m.koreaherald.com",
+							"display_url": "m.koreaherald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336127,
+			"friends_count": 98,
+			"listed_count": 1006,
+			"created_at": "Mon Jun 09 02:40:57 +0000 2014",
+			"favourites_count": 737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555928204/1637897329",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8263,
+		"favorite_count": 13782,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Official pictures of @WannaOne_twt's performance during @MnetMAMA. 💙 #MAMA2021 #WannaOne https://t.co/eUr4li8qK8"
+	},
+	{
 		"created_at": "Sun Dec 12 03:09:12 +0000 2021",
 		"id": 1469664183147167700,
 		"id_str": "1469866899458899972",

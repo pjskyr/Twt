@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 09:03:38 +0000 2021",
+		"id": 1469657800125010000,
+		"id_str": "1469956097599754244",
+		"full_text": "Individual pictures of @WannaOne_twt at #MAMA2021. @MnetMAMA https://t.co/ErFMmDNRFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAMA2021",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WannaOne_twt",
+					"name": "Wanna One",
+					"id": 872005518084251600,
+					"id_str": "872005518084251648",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "MnetMAMA",
+					"name": "MAMA(엠넷아시안뮤직어워즈)",
+					"id": 128487133,
+					"id_str": "128487133",
+					"indices": [
+						51,
+						60
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469657653542457300,
+					"id_str": "1469657653542457347",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVF2WzVEAMLsK_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVF2WzVEAMLsK_.jpg",
+					"url": "https://t.co/ErFMmDNRFl",
+					"display_url": "pic.twitter.com/ErFMmDNRFl",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657800125009923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469657653542457300,
+					"id_str": "1469657653542457347",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVF2WzVEAMLsK_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVF2WzVEAMLsK_.jpg",
+					"url": "https://t.co/ErFMmDNRFl",
+					"display_url": "pic.twitter.com/ErFMmDNRFl",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657800125009923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469657747322916900,
+					"id_str": "1469657747322916865",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVF70KVUAEWzBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVF70KVUAEWzBO.jpg",
+					"url": "https://t.co/ErFMmDNRFl",
+					"display_url": "pic.twitter.com/ErFMmDNRFl",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657800125009923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469657747725570000,
+					"id_str": "1469657747725570051",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVF71qVUAMjta3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVF71qVUAMjta3.jpg",
+					"url": "https://t.co/ErFMmDNRFl",
+					"display_url": "pic.twitter.com/ErFMmDNRFl",
+					"expanded_url": "https://twitter.com/Kpop_Herald/status/1469657800125009923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469657475343593500,
+		"in_reply_to_status_id_str": "1469657475343593475",
+		"in_reply_to_user_id": 2555928204,
+		"in_reply_to_user_id_str": "2555928204",
+		"in_reply_to_screen_name": "Kpop_Herald",
+		"user": {
+			"id": 2555928204,
+			"id_str": "2555928204",
+			"name": "KpopHerald",
+			"screen_name": "Kpop_Herald",
+			"location": "Seoul, South Korea",
+			"description": "Hi besties 🤗 It's #PTD time in LA! 💜 #PTD_KpopHerald",
+			"url": "https://t.co/A4B5pSKyTy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A4B5pSKyTy",
+							"expanded_url": "http://m.koreaherald.com",
+							"display_url": "m.koreaherald.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336227,
+			"friends_count": 98,
+			"listed_count": 1008,
+			"created_at": "Mon Jun 09 02:40:57 +0000 2014",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107820688742600704/WNQMa25a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555928204/1637897329",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2713,
+		"favorite_count": 4537,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Individual pictures of @WannaOne_twt at #MAMA2021. @MnetMAMA https://t.co/ErFMmDNRFl"
+	},
+	{
 		"created_at": "Sun Dec 12 08:51:30 +0000 2021",
 		"id": 1469879956641828900,
 		"id_str": "1469953044649771015",

@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 03:09:12 +0000 2021",
+		"id": 1469664183147167700,
+		"id_str": "1469866899458899972",
+		"full_text": "[#2021MAMA] #Beautiful (PART III) by #워너원 #wannaone\n\n▶ https://t.co/YQ7NoMhQwi\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "Beautiful",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "MnetAsianMusicAwards",
+					"indices": [
+						80,
+						101
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						123,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YQ7NoMhQwi",
+					"expanded_url": "https://youtu.be/KSj_tB9S57I",
+					"display_url": "youtu.be/KSj_tB9S57I",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4558,
+		"favorite_count": 7862,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA] #Beautiful (PART III) by #워너원 #wannaone\n\n▶ https://t.co/YQ7NoMhQwi\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet"
+	},
+	{
+		"created_at": "Sun Dec 12 03:08:51 +0000 2021",
+		"id": 1469664003421261800,
+		"id_str": "1469866812967948290",
+		"full_text": "[#2021MAMA] #Energetic + #BurnItUp by #워너원 #wannaone\n\n▶ https://t.co/PbM5T3GttM\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "Energetic",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"text": "BurnItUp",
+					"indices": [
+						25,
+						34
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"text": "MnetAsianMusicAwards",
+					"indices": [
+						81,
+						102
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PbM5T3GttM",
+					"expanded_url": "https://youtu.be/-OBNH4V1Gv4",
+					"display_url": "youtu.be/-OBNH4V1Gv4",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4922,
+		"favorite_count": 8623,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[#2021MAMA] #Energetic + #BurnItUp by #워너원 #wannaone\n\n▶ https://t.co/PbM5T3GttM\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet"
+	},
+	{
+		"created_at": "Sun Dec 12 03:08:41 +0000 2021",
+		"id": 1469663100219846700,
+		"id_str": "1469866768676327424",
+		"full_text": "[#2021MAMA] #SpringBreeze (MAMA ver.) by #워너원 #wannaone\n\n▶ https://t.co/mqsXAWys3g\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "SpringBreeze",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"text": "MnetAsianMusicAwards",
+					"indices": [
+						84,
+						105
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqsXAWys3g",
+					"expanded_url": "https://youtu.be/AANhNJ6eFiY",
+					"display_url": "youtu.be/AANhNJ6eFiY",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4472,
+		"favorite_count": 8108,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA] #SpringBreeze (MAMA ver.) by #워너원 #wannaone\n\n▶ https://t.co/mqsXAWys3g\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet"
+	},
+	{
+		"created_at": "Sun Dec 12 03:06:21 +0000 2021",
+		"id": 1469679996306595800,
+		"id_str": "1469866183482834949",
+		"full_text": "[#2021MAMA_Behind] #워너원 #wannaone\n⠀\nSpecial moment of 2021 MAMA #워너블 ✨\n⠀\n#MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/BiSuphpjdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Behind",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "워너블",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						73,
+						94
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469679985916924000,
+					"id_str": "1469679985916923909",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVaKRYUUAUh5L_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVaKRYUUAUh5L_.jpg",
+					"url": "https://t.co/BiSuphpjdG",
+					"display_url": "pic.twitter.com/BiSuphpjdG",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469679996306595840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469679985916924000,
+					"id_str": "1469679985916923909",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVaKRYUUAUh5L_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVaKRYUUAUh5L_.jpg",
+					"url": "https://t.co/BiSuphpjdG",
+					"display_url": "pic.twitter.com/BiSuphpjdG",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469679996306595840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469679985921122300,
+					"id_str": "1469679985921122311",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVaKRZUYAcxRyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVaKRZUYAcxRyI.jpg",
+					"url": "https://t.co/BiSuphpjdG",
+					"display_url": "pic.twitter.com/BiSuphpjdG",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469679996306595840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28524,
+		"favorite_count": 48729,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA_Behind] #워너원 #wannaone\n⠀\nSpecial moment of 2021 MAMA #워너블 ✨\n⠀\n#MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/BiSuphpjdG"
+	},
+	{
+		"created_at": "Sun Dec 12 03:06:12 +0000 2021",
+		"id": 1469665402980802600,
+		"id_str": "1469866143423041539",
+		"full_text": "[#2021MAMA_Photo] #워너원 #wannaone\n\nEnjoy fantastic stage of the legendary 2021 MAMA stage!✨\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet https://t.co/lUlwCZgiBf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Photo",
+					"indices": [
+						1,
+						16
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "MnetAsianMusicAwards",
+					"indices": [
+						92,
+						113
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469665261775057000,
+					"id_str": "1469665261775056896",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMxNrVcAAJJ8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMxNrVcAAJJ8o.jpg",
+					"url": "https://t.co/lUlwCZgiBf",
+					"display_url": "pic.twitter.com/lUlwCZgiBf",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469665402980802569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469665261775057000,
+					"id_str": "1469665261775056896",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMxNrVcAAJJ8o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMxNrVcAAJJ8o.jpg",
+					"url": "https://t.co/lUlwCZgiBf",
+					"display_url": "pic.twitter.com/lUlwCZgiBf",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469665402980802569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1469665270708924400,
+					"id_str": "1469665270708924417",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FGVMxu9VcAE5D1D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGVMxu9VcAE5D1D.jpg",
+					"url": "https://t.co/lUlwCZgiBf",
+					"display_url": "pic.twitter.com/lUlwCZgiBf",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469665402980802569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15147,
+		"favorite_count": 28939,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA_Photo] #워너원 #wannaone\n\nEnjoy fantastic stage of the legendary 2021 MAMA stage!✨\n\n#MnetAsianMusicAwards #MAMA #MakeSomeNoise #Mnet https://t.co/lUlwCZgiBf"
+	},
+	{
+		"created_at": "Sun Dec 12 03:06:03 +0000 2021",
+		"id": 1469664124720533500,
+		"id_str": "1469866107301658627",
+		"full_text": "[#2021MAMA_Moment] #Beautiful (PART III) by #워너원 #wannaone\n\nDon't miss the performance you can't take your eyes off!\n\n#2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/n4jwmWSmdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA_Moment",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "Beautiful",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "wannaone",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "2021MAMA",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						149,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469662994531758000,
+					"id_str": "1469662994531758081",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1469662994531758081/img/yOcDMkN2rt-US4vz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1469662994531758081/img/yOcDMkN2rt-US4vz.jpg",
+					"url": "https://t.co/n4jwmWSmdV",
+					"display_url": "pic.twitter.com/n4jwmWSmdV",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469664124720533517/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469662994531758000,
+					"id_str": "1469662994531758081",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1469662994531758081/img/yOcDMkN2rt-US4vz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1469662994531758081/img/yOcDMkN2rt-US4vz.jpg",
+					"url": "https://t.co/n4jwmWSmdV",
+					"display_url": "pic.twitter.com/n4jwmWSmdV",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1469664124720533517/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38938,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1469662994531758081/pl/6JZ3RIyYpJ3BxqH6.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469662994531758081/vid/640x360/87rtu5PnujzwvnAT.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469662994531758081/vid/480x270/w8lGKAeSScwoflCY.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1469662994531758081/vid/1280x720/cqKde1sluY_Yt0jH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452405,
+			"friends_count": 104,
+			"listed_count": 2154,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1638958370",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9597,
+		"favorite_count": 17572,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA_Moment] #Beautiful (PART III) by #워너원 #wannaone\n\nDon't miss the performance you can't take your eyes off!\n\n#2021MAMA #MAMA #MakeSomeNoise #Mnet https://t.co/n4jwmWSmdV"
+	},
+	{
 		"created_at": "Sun Dec 12 02:49:19 +0000 2021",
 		"id": 1469660189293187000,
 		"id_str": "1469861895108988929",
@@ -2057,7 +3351,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Sun Dec 12 02:41:57 +0000 2021",
 		"id": 1469585243854180400,
 		"id_str": "1469860043403460608",
-		"full_text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤‍🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA",
+		"full_text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -2193,7 +3487,7 @@ Grailbird.data.tweets_2021_12 =
 		"favorited": true,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤‍🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA"
+		"text": "[#박지훈]\n\n잠시 후 오후 6시\n#Mnet #2021MAMA 에 지훈이가 출연합니다❤🔥\n\n무대 위 훨훨 날아다니는 지훈이의 모습이 궁금하시다면?!\n\n지금 당장 TV 앞으로 모여서 채.널.고.정🤩\n그럼 조금 이따 만나요😍\n\n#PARKJIHOON #MAMA"
 	},
 	{
 		"created_at": "Sun Dec 12 02:41:54 +0000 2021",

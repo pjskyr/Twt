@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 05:28:57 +0000 2022",
+		"id": 1485832836150009900,
+		"id_str": "1485847135774187530",
+		"full_text": "Wanna One l Official Archiving YouTube Channel\n\nhttps://t.co/NA5F6msA3s\n\n#WannaOne #워너원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						83,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NA5F6msA3s",
+					"expanded_url": "https://www.youtube.com/c/WannaOneofficial",
+					"display_url": "youtube.com/c/WannaOneoffi…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/96qiM3GVXA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96qiM3GVXA",
+							"expanded_url": "https://www.youtube.com/wannaoneofficial",
+							"display_url": "youtube.com/wannaoneoffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2859377,
+			"friends_count": 0,
+			"listed_count": 3099,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1642997120",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7621,
+		"favorite_count": 13327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wanna One l Official Archiving YouTube Channel\n\nhttps://t.co/NA5F6msA3s\n\n#WannaOne #워너원"
+	},
+	{
 		"created_at": "Tue Jan 25 04:14:44 +0000 2022",
 		"id": 1485825001395835000,
 		"id_str": "1485828459226021888",

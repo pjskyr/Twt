@@ -1,6 +1,594 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 04:23:47 +0000 2022",
+		"id": 1486187389236105200,
+		"id_str": "1486193125106528260",
+		"full_text": "Wanna One l 워너원 Digital Single ‘B-Side' D-1 📼\n\nBeautiful Part.3\n2022.01.27 6PM(KST) Release\n\n#WannaOne #워너원 #B_Side #BeautifulPart_3 https://t.co/aNdoT8KQG6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "B_Side",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "BeautifulPart_3",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485962449756909600,
+					"id_str": "1485962449756909570",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ8y-Z9UcAIWNwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ8y-Z9UcAIWNwr.jpg",
+					"url": "https://t.co/aNdoT8KQG6",
+					"display_url": "pic.twitter.com/aNdoT8KQG6",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485962449756909600,
+					"id_str": "1485962449756909570",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ8y-Z9UcAIWNwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ8y-Z9UcAIWNwr.jpg",
+					"url": "https://t.co/aNdoT8KQG6",
+					"display_url": "pic.twitter.com/aNdoT8KQG6",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485962822777401300,
+					"id_str": "1485962822777401344",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ8zUHkVcAAAXQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ8zUHkVcAAAXQZ.jpg",
+					"url": "https://t.co/aNdoT8KQG6",
+					"display_url": "pic.twitter.com/aNdoT8KQG6",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485962869879439400,
+					"id_str": "1485962869879439361",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ8zW3CVgAEe-FT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ8zW3CVgAEe-FT.jpg",
+					"url": "https://t.co/aNdoT8KQG6",
+					"display_url": "pic.twitter.com/aNdoT8KQG6",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485962904851533800,
+					"id_str": "1485962904851533827",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ8zY5UVUAMg_6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ8zY5UVUAMg_6E.jpg",
+					"url": "https://t.co/aNdoT8KQG6",
+					"display_url": "pic.twitter.com/aNdoT8KQG6",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389236105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/96qiM3GVXA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96qiM3GVXA",
+							"expanded_url": "https://www.youtube.com/wannaoneofficial",
+							"display_url": "youtube.com/wannaoneoffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2861119,
+			"friends_count": 0,
+			"listed_count": 3104,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1642997120",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9564,
+		"favorite_count": 15112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wanna One l 워너원 Digital Single ‘B-Side' D-1 📼\n\nBeautiful Part.3\n2022.01.27 6PM(KST) Release\n\n#WannaOne #워너원 #B_Side #BeautifulPart_3 https://t.co/aNdoT8KQG6"
+	},
+	{
+		"created_at": "Wed Jan 26 04:23:41 +0000 2022",
+		"id": 1486187389131370500,
+		"id_str": "1486193099814674434",
+		"full_text": "Wanna One l 워너원 Digital Single ‘B-Side' D-1 📼\n\nBeautiful Part.3\n2022.01.27 6PM(KST) Release\n\n#WannaOne #워너원 #B_Side #BeautifulPart_3 https://t.co/NiYOZJBvyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WannaOne",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "워너원",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "B_Side",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "BeautifulPart_3",
+					"indices": [
+						116,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485963743829713000,
+					"id_str": "1485963743829712902",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ80JuwUYAYCTbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ80JuwUYAYCTbp.jpg",
+					"url": "https://t.co/NiYOZJBvyY",
+					"display_url": "pic.twitter.com/NiYOZJBvyY",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389131370500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485963743829713000,
+					"id_str": "1485963743829712902",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ80JuwUYAYCTbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ80JuwUYAYCTbp.jpg",
+					"url": "https://t.co/NiYOZJBvyY",
+					"display_url": "pic.twitter.com/NiYOZJBvyY",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389131370500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485963777250001000,
+					"id_str": "1485963777250000896",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ80LrQVgAA8I03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ80LrQVgAA8I03.jpg",
+					"url": "https://t.co/NiYOZJBvyY",
+					"display_url": "pic.twitter.com/NiYOZJBvyY",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389131370500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485963815376146400,
+					"id_str": "1485963815376146432",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ80N5SUUAAmuar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ80N5SUUAAmuar.jpg",
+					"url": "https://t.co/NiYOZJBvyY",
+					"display_url": "pic.twitter.com/NiYOZJBvyY",
+					"expanded_url": "https://twitter.com/WannaOne_twt/status/1486187389131370500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 872005518084251600,
+			"id_str": "872005518084251648",
+			"name": "Wanna One",
+			"screen_name": "WannaOne_twt",
+			"location": "",
+			"description": "Wanna One (워너원) 공식 트위터 계정 입니다.",
+			"url": "https://t.co/96qiM3GVXA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/96qiM3GVXA",
+							"expanded_url": "https://www.youtube.com/wannaoneofficial",
+							"display_url": "youtube.com/wannaoneoffici…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2861119,
+			"friends_count": 0,
+			"listed_count": 3104,
+			"created_at": "Tue Jun 06 08:21:31 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485463688412758020/YejTKtty_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/872005518084251648/1642997120",
+			"profile_link_color": "77C8C0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8982,
+		"favorite_count": 14591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wanna One l 워너원 Digital Single ‘B-Side' D-1 📼\n\nBeautiful Part.3\n2022.01.27 6PM(KST) Release\n\n#WannaOne #워너원 #B_Side #BeautifulPart_3 https://t.co/NiYOZJBvyY"
+	},
+	{
 		"created_at": "Tue Jan 25 15:06:18 +0000 2022",
 		"id": 1485992431472500700,
 		"id_str": "1485992431472500738",
